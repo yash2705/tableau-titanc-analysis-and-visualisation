@@ -1,0 +1,892 @@
+﻿Age,Age (bin),Cabin,Embarked,Family Size,Name,Passenger Id,Sex,Survived,Ticket,Ticket Class,Fare,Number of Records,Parch,Sib Sp
+22,20,,Southampton,2,"Braund, Mr. Owen Harris",1,M,Died,A/5 21171,Low,7.25,1,0,1
+38,35,C85,Cherbourg,2,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",2,F,Survived,PC 17599,Up,71.2833,1,0,1
+26,25,,Southampton,1,"Heikkinen, Miss. Laina",3,F,Survived,STON/O2. 3101282,Low,7.925,1,0,0
+35,35,C123,Southampton,2,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",4,F,Survived,113803,Up,53.1,1,0,1
+35,35,,Southampton,1,"Allen, Mr. William Henry",5,M,Died,373450,Low,8.05,1,0,0
+,,,Queenstown,1,"Moran, Mr. James",6,M,Died,330877,Low,8.4583,1,0,0
+54,50,E46,Southampton,1,"McCarthy, Mr. Timothy J",7,M,Died,17463,Up,51.8625,1,0,0
+2,0,,Southampton,5,"Palsson, Master. Gosta Leonard",8,M,Died,349909,Low,21.075,1,1,3
+27,25,,Southampton,3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",9,F,Survived,347742,Low,11.1333,1,2,0
+14,10,,Cherbourg,2,"Nasser, Mrs. Nicholas (Adele Achem)",10,F,Survived,237736,Mid,30.0708,1,0,1
+4,0,G6,Southampton,3,"Sandstrom, Miss. Marguerite Rut",11,F,Survived,PP 9549,Low,16.7,1,1,1
+58,55,C103,Southampton,1,"Bonnell, Miss. Elizabeth",12,F,Survived,113783,Up,26.55,1,0,0
+20,20,,Southampton,1,"Saundercock, Mr. William Henry",13,M,Died,A/5. 2151,Low,8.05,1,0,0
+39,35,,Southampton,7,"Andersson, Mr. Anders Johan",14,M,Died,347082,Low,31.275,1,5,1
+14,10,,Southampton,1,"Vestrom, Miss. Hulda Amanda Adolfina",15,F,Died,350406,Low,7.8542,1,0,0
+55,55,,Southampton,1,"Hewlett, Mrs. (Mary D Kingcome) ",16,F,Survived,248706,Mid,16,1,0,0
+2,0,,Queenstown,6,"Rice, Master. Eugene",17,M,Died,382652,Low,29.125,1,1,4
+,,,Southampton,1,"Williams, Mr. Charles Eugene",18,M,Survived,244373,Mid,13,1,0,0
+31,30,,Southampton,2,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",19,F,Died,345763,Low,18,1,0,1
+,,,Cherbourg,1,"Masselmani, Mrs. Fatima",20,F,Survived,2649,Low,7.225,1,0,0
+35,35,,Southampton,1,"Fynney, Mr. Joseph J",21,M,Died,239865,Mid,26,1,0,0
+34,30,D56,Southampton,1,"Beesley, Mr. Lawrence",22,M,Survived,248698,Mid,13,1,0,0
+15,15,,Queenstown,1,"McGowan, Miss. Anna ""Annie""",23,F,Survived,330923,Low,8.0292,1,0,0
+28,25,A6,Southampton,1,"Sloper, Mr. William Thompson",24,M,Survived,113788,Up,35.5,1,0,0
+8,5,,Southampton,5,"Palsson, Miss. Torborg Danira",25,F,Died,349909,Low,21.075,1,1,3
+38,35,,Southampton,7,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",26,F,Survived,347077,Low,31.3875,1,5,1
+,,,Cherbourg,1,"Emir, Mr. Farred Chehab",27,M,Died,2631,Low,7.225,1,0,0
+19,15,C23 C25 C27,Southampton,6,"Fortune, Mr. Charles Alexander",28,M,Died,19950,Up,263,1,2,3
+,,,Queenstown,1,"O'Dwyer, Miss. Ellen ""Nellie""",29,F,Survived,330959,Low,7.8792,1,0,0
+,,,Southampton,1,"Todoroff, Mr. Lalio",30,M,Died,349216,Low,7.8958,1,0,0
+40,40,,Cherbourg,1,"Uruchurtu, Don. Manuel E",31,M,Died,PC 17601,Up,27.7208,1,0,0
+,,B78,Cherbourg,2,"Spencer, Mrs. William Augustus (Marie Eugenie)",32,F,Survived,PC 17569,Up,146.5208,1,0,1
+,,,Queenstown,1,"Glynn, Miss. Mary Agatha",33,F,Survived,335677,Low,7.75,1,0,0
+66,65,,Southampton,1,"Wheadon, Mr. Edward H",34,M,Died,C.A. 24579,Mid,10.5,1,0,0
+28,25,,Cherbourg,2,"Meyer, Mr. Edgar Joseph",35,M,Died,PC 17604,Up,82.1708,1,0,1
+42,40,,Southampton,2,"Holverson, Mr. Alexander Oskar",36,M,Died,113789,Up,52,1,0,1
+,,,Cherbourg,1,"Mamee, Mr. Hanna",37,M,Survived,2677,Low,7.2292,1,0,0
+21,20,,Southampton,1,"Cann, Mr. Ernest Charles",38,M,Died,A./5. 2152,Low,8.05,1,0,0
+18,15,,Southampton,3,"Vander Planke, Miss. Augusta Maria",39,F,Died,345764,Low,18,1,0,2
+14,10,,Cherbourg,2,"Nicola-Yarred, Miss. Jamila",40,F,Survived,2651,Low,11.2417,1,0,1
+40,40,,Southampton,2,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",41,F,Died,7546,Low,9.475,1,0,1
+27,25,,Southampton,2,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",42,F,Died,11668,Mid,21,1,0,1
+,,,Cherbourg,1,"Kraeff, Mr. Theodor",43,M,Died,349253,Low,7.8958,1,0,0
+3,0,,Cherbourg,4,"Laroche, Miss. Simonne Marie Anne Andree",44,F,Survived,SC/Paris 2123,Mid,41.5792,1,2,1
+19,15,,Queenstown,1,"Devaney, Miss. Margaret Delia",45,F,Survived,330958,Low,7.8792,1,0,0
+,,,Southampton,1,"Rogers, Mr. William John",46,M,Died,S.C./A.4. 23567,Low,8.05,1,0,0
+,,,Queenstown,2,"Lennon, Mr. Denis",47,M,Died,370371,Low,15.5,1,0,1
+,,,Queenstown,1,"O'Driscoll, Miss. Bridget",48,F,Survived,14311,Low,7.75,1,0,0
+,,,Cherbourg,3,"Samaan, Mr. Youssef",49,M,Died,2662,Low,21.6792,1,0,2
+18,15,,Southampton,2,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",50,F,Died,349237,Low,17.8,1,0,1
+7,5,,Southampton,6,"Panula, Master. Juha Niilo",51,M,Died,3101295,Low,39.6875,1,1,4
+21,20,,Southampton,1,"Nosworthy, Mr. Richard Cater",52,M,Died,A/4. 39886,Low,7.8,1,0,0
+49,45,D33,Cherbourg,2,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",53,F,Survived,PC 17572,Up,76.7292,1,0,1
+29,25,,Southampton,2,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",54,F,Survived,2926,Mid,26,1,0,1
+65,65,B30,Cherbourg,2,"Ostby, Mr. Engelhart Cornelius",55,M,Died,113509,Up,61.9792,1,1,0
+,,C52,Southampton,1,"Woolner, Mr. Hugh",56,M,Survived,19947,Up,35.5,1,0,0
+21,20,,Southampton,1,"Rugg, Miss. Emily",57,F,Survived,C.A. 31026,Mid,10.5,1,0,0
+28.5,25,,Cherbourg,1,"Novel, Mr. Mansouer",58,M,Died,2697,Low,7.2292,1,0,0
+5,5,,Southampton,4,"West, Miss. Constance Mirium",59,F,Survived,C.A. 34651,Mid,27.75,1,2,1
+11,10,,Southampton,8,"Goodwin, Master. William Frederick",60,M,Died,CA 2144,Low,46.9,1,2,5
+22,20,,Cherbourg,1,"Sirayanian, Mr. Orsen",61,M,Died,2669,Low,7.2292,1,0,0
+38,35,B28,,1,"Icard, Miss. Amelie",62,F,Survived,113572,Up,80,1,0,0
+45,45,C83,Southampton,2,"Harris, Mr. Henry Birkhardt",63,M,Died,36973,Up,83.475,1,0,1
+4,0,,Southampton,6,"Skoog, Master. Harald",64,M,Died,347088,Low,27.9,1,2,3
+,,,Cherbourg,1,"Stewart, Mr. Albert A",65,M,Died,PC 17605,Up,27.7208,1,0,0
+,,,Cherbourg,3,"Moubarek, Master. Gerios",66,M,Survived,2661,Low,15.2458,1,1,1
+29,25,F33,Southampton,1,"Nye, Mrs. (Elizabeth Ramell)",67,F,Survived,C.A. 29395,Mid,10.5,1,0,0
+19,15,,Southampton,1,"Crease, Mr. Ernest James",68,M,Died,S.P. 3464,Low,8.1583,1,0,0
+17,15,,Southampton,7,"Andersson, Miss. Erna Alexandra",69,F,Survived,3101281,Low,7.925,1,2,4
+26,25,,Southampton,3,"Kink, Mr. Vincenz",70,M,Died,315151,Low,8.6625,1,0,2
+32,30,,Southampton,1,"Jenkin, Mr. Stephen Curnow",71,M,Died,C.A. 33111,Mid,10.5,1,0,0
+16,15,,Southampton,8,"Goodwin, Miss. Lillian Amy",72,F,Died,CA 2144,Low,46.9,1,2,5
+21,20,,Southampton,1,"Hood, Mr. Ambrose Jr",73,M,Died,S.O.C. 14879,Mid,73.5,1,0,0
+26,25,,Cherbourg,2,"Chronopoulos, Mr. Apostolos",74,M,Died,2680,Low,14.4542,1,0,1
+32,30,,Southampton,1,"Bing, Mr. Lee",75,M,Survived,1601,Low,56.4958,1,0,0
+25,25,F G73,Southampton,1,"Moen, Mr. Sigurd Hansen",76,M,Died,348123,Low,7.65,1,0,0
+,,,Southampton,1,"Staneff, Mr. Ivan",77,M,Died,349208,Low,7.8958,1,0,0
+,,,Southampton,1,"Moutal, Mr. Rahamin Haim",78,M,Died,374746,Low,8.05,1,0,0
+0.83,0,,Southampton,3,"Caldwell, Master. Alden Gates",79,M,Survived,248738,Mid,29,1,2,0
+30,30,,Southampton,1,"Dowdell, Miss. Elizabeth",80,F,Survived,364516,Low,12.475,1,0,0
+22,20,,Southampton,1,"Waelens, Mr. Achille",81,M,Died,345767,Low,9,1,0,0
+29,25,,Southampton,1,"Sheerlinck, Mr. Jan Baptist",82,M,Survived,345779,Low,9.5,1,0,0
+,,,Queenstown,1,"McDermott, Miss. Brigdet Delia",83,F,Survived,330932,Low,7.7875,1,0,0
+28,25,,Southampton,1,"Carrau, Mr. Francisco M",84,M,Died,113059,Up,47.1,1,0,0
+17,15,,Southampton,1,"Ilett, Miss. Bertha",85,F,Survived,SO/C 14885,Mid,10.5,1,0,0
+33,30,,Southampton,4,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",86,F,Survived,3101278,Low,15.85,1,0,3
+16,15,,Southampton,5,"Ford, Mr. William Neal",87,M,Died,W./C. 6608,Low,34.375,1,3,1
+,,,Southampton,1,"Slocovski, Mr. Selman Francis",88,M,Died,SOTON/OQ 392086,Low,8.05,1,0,0
+23,20,C23 C25 C27,Southampton,6,"Fortune, Miss. Mabel Helen",89,F,Survived,19950,Up,263,1,2,3
+24,20,,Southampton,1,"Celotti, Mr. Francesco",90,M,Died,343275,Low,8.05,1,0,0
+29,25,,Southampton,1,"Christmann, Mr. Emil",91,M,Died,343276,Low,8.05,1,0,0
+20,20,,Southampton,1,"Andreasson, Mr. Paul Edvin",92,M,Died,347466,Low,7.8542,1,0,0
+46,45,E31,Southampton,2,"Chaffee, Mr. Herbert Fuller",93,M,Died,W.E.P. 5734,Up,61.175,1,0,1
+26,25,,Southampton,4,"Dean, Mr. Bertram Frank",94,M,Died,C.A. 2315,Low,20.575,1,2,1
+59,55,,Southampton,1,"Coxon, Mr. Daniel",95,M,Died,364500,Low,7.25,1,0,0
+,,,Southampton,1,"Shorney, Mr. Charles Joseph",96,M,Died,374910,Low,8.05,1,0,0
+71,70,A5,Cherbourg,1,"Goldschmidt, Mr. George B",97,M,Died,PC 17754,Up,34.6542,1,0,0
+23,20,D10 D12,Cherbourg,2,"Greenfield, Mr. William Bertram",98,M,Survived,PC 17759,Up,63.3583,1,1,0
+34,30,,Southampton,2,"Doling, Mrs. John T (Ada Julia Bone)",99,F,Survived,231919,Mid,23,1,1,0
+34,30,,Southampton,2,"Kantor, Mr. Sinai",100,M,Died,244367,Mid,26,1,0,1
+28,25,,Southampton,1,"Petranec, Miss. Matilda",101,F,Died,349245,Low,7.8958,1,0,0
+,,,Southampton,1,"Petroff, Mr. Pastcho (""Pentcho"")",102,M,Died,349215,Low,7.8958,1,0,0
+21,20,D26,Southampton,2,"White, Mr. Richard Frasar",103,M,Died,35281,Up,77.2875,1,1,0
+33,30,,Southampton,1,"Johansson, Mr. Gustaf Joel",104,M,Died,7540,Low,8.6542,1,0,0
+37,35,,Southampton,3,"Gustafsson, Mr. Anders Vilhelm",105,M,Died,3101276,Low,7.925,1,0,2
+28,25,,Southampton,1,"Mionoff, Mr. Stoytcho",106,M,Died,349207,Low,7.8958,1,0,0
+21,20,,Southampton,1,"Salkjelsvik, Miss. Anna Kristine",107,F,Survived,343120,Low,7.65,1,0,0
+,,,Southampton,1,"Moss, Mr. Albert Johan",108,M,Survived,312991,Low,7.775,1,0,0
+38,35,,Southampton,1,"Rekic, Mr. Tido",109,M,Died,349249,Low,7.8958,1,0,0
+,,,Queenstown,2,"Moran, Miss. Bertha",110,F,Survived,371110,Low,24.15,1,0,1
+47,45,C110,Southampton,1,"Porter, Mr. Walter Chamberlain",111,M,Died,110465,Up,52,1,0,0
+14.5,10,,Cherbourg,2,"Zabour, Miss. Hileni",112,F,Died,2665,Low,14.4542,1,0,1
+22,20,,Southampton,1,"Barton, Mr. David John",113,M,Died,324669,Low,8.05,1,0,0
+20,20,,Southampton,2,"Jussila, Miss. Katriina",114,F,Died,4136,Low,9.825,1,0,1
+17,15,,Cherbourg,1,"Attalah, Miss. Malake",115,F,Died,2627,Low,14.4583,1,0,0
+21,20,,Southampton,1,"Pekoniemi, Mr. Edvard",116,M,Died,STON/O 2. 3101294,Low,7.925,1,0,0
+70.5,70,,Queenstown,1,"Connors, Mr. Patrick",117,M,Died,370369,Low,7.75,1,0,0
+29,25,,Southampton,2,"Turpin, Mr. William John Robert",118,M,Died,11668,Mid,21,1,0,1
+24,20,B58 B60,Cherbourg,2,"Baxter, Mr. Quigg Edmond",119,M,Died,PC 17558,Up,247.5208,1,1,0
+2,0,,Southampton,7,"Andersson, Miss. Ellis Anna Maria",120,F,Died,347082,Low,31.275,1,2,4
+21,20,,Southampton,3,"Hickman, Mr. Stanley George",121,M,Died,S.O.C. 14879,Mid,73.5,1,0,2
+,,,Southampton,1,"Moore, Mr. Leonard Charles",122,M,Died,A4. 54510,Low,8.05,1,0,0
+32.5,30,,Cherbourg,2,"Nasser, Mr. Nicholas",123,M,Died,237736,Mid,30.0708,1,0,1
+32.5,30,E101,Southampton,1,"Webber, Miss. Susan",124,F,Survived,27267,Mid,13,1,0,0
+54,50,D26,Southampton,2,"White, Mr. Percival Wayland",125,M,Died,35281,Up,77.2875,1,1,0
+12,10,,Cherbourg,2,"Nicola-Yarred, Master. Elias",126,M,Survived,2651,Low,11.2417,1,0,1
+,,,Queenstown,1,"McMahon, Mr. Martin",127,M,Died,370372,Low,7.75,1,0,0
+24,20,,Southampton,1,"Madsen, Mr. Fridtjof Arne",128,M,Survived,C 17369,Low,7.1417,1,0,0
+,,F E69,Cherbourg,3,"Peter, Miss. Anna",129,F,Survived,2668,Low,22.3583,1,1,1
+45,45,,Southampton,1,"Ekstrom, Mr. Johan",130,M,Died,347061,Low,6.975,1,0,0
+33,30,,Cherbourg,1,"Drazenoic, Mr. Jozef",131,M,Died,349241,Low,7.8958,1,0,0
+20,20,,Southampton,1,"Coelho, Mr. Domingos Fernandeo",132,M,Died,SOTON/O.Q. 3101307,Low,7.05,1,0,0
+47,45,,Southampton,2,"Robins, Mrs. Alexander A (Grace Charity Laury)",133,F,Died,A/5. 3337,Low,14.5,1,0,1
+29,25,,Southampton,2,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",134,F,Survived,228414,Mid,26,1,0,1
+25,25,,Southampton,1,"Sobey, Mr. Samuel James Hayden",135,M,Died,C.A. 29178,Mid,13,1,0,0
+23,20,,Cherbourg,1,"Richard, Mr. Emile",136,M,Died,SC/PARIS 2133,Mid,15.0458,1,0,0
+19,15,D47,Southampton,3,"Newsom, Miss. Helen Monypeny",137,F,Survived,11752,Up,26.2833,1,2,0
+37,35,C123,Southampton,2,"Futrelle, Mr. Jacques Heath",138,M,Died,113803,Up,53.1,1,0,1
+16,15,,Southampton,1,"Osen, Mr. Olaf Elon",139,M,Died,7534,Low,9.2167,1,0,0
+24,20,B86,Cherbourg,1,"Giglio, Mr. Victor",140,M,Died,PC 17593,Up,79.2,1,0,0
+,,,Cherbourg,3,"Boulos, Mrs. Joseph (Sultana)",141,F,Died,2678,Low,15.2458,1,2,0
+22,20,,Southampton,1,"Nysten, Miss. Anna Sofia",142,F,Survived,347081,Low,7.75,1,0,0
+24,20,,Southampton,2,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",143,F,Survived,STON/O2. 3101279,Low,15.85,1,0,1
+19,15,,Queenstown,1,"Burke, Mr. Jeremiah",144,M,Died,365222,Low,6.75,1,0,0
+18,15,,Southampton,1,"Andrew, Mr. Edgardo Samuel",145,M,Died,231945,Mid,11.5,1,0,0
+19,15,,Southampton,3,"Nicholls, Mr. Joseph Charles",146,M,Died,C.A. 33112,Mid,36.75,1,1,1
+27,25,,Southampton,1,"Andersson, Mr. August Edvard (""Wennerstrom"")",147,M,Survived,350043,Low,7.7958,1,0,0
+9,5,,Southampton,5,"Ford, Miss. Robina Maggie ""Ruby""",148,F,Died,W./C. 6608,Low,34.375,1,2,2
+36.5,35,F2,Southampton,3,"Navratil, Mr. Michel (""Louis M Hoffman"")",149,M,Died,230080,Mid,26,1,2,0
+42,40,,Southampton,1,"Byles, Rev. Thomas Roussel Davids",150,M,Died,244310,Mid,13,1,0,0
+51,50,,Southampton,1,"Bateman, Rev. Robert James",151,M,Died,S.O.P. 1166,Mid,12.525,1,0,0
+22,20,C2,Southampton,2,"Pears, Mrs. Thomas (Edith Wearne)",152,F,Survived,113776,Up,66.6,1,0,1
+55.5,55,,Southampton,1,"Meo, Mr. Alfonzo",153,M,Died,A.5. 11206,Low,8.05,1,0,0
+40.5,40,,Southampton,3,"van Billiard, Mr. Austin Blyler",154,M,Died,A/5. 851,Low,14.5,1,2,0
+,,,Southampton,1,"Olsen, Mr. Ole Martin",155,M,Died,Fa 265302,Low,7.3125,1,0,0
+51,50,,Cherbourg,2,"Williams, Mr. Charles Duane",156,M,Died,PC 17597,Up,61.3792,1,1,0
+16,15,,Queenstown,1,"Gilnagh, Miss. Katherine ""Katie""",157,F,Survived,35851,Low,7.7333,1,0,0
+30,30,,Southampton,1,"Corn, Mr. Harry",158,M,Died,SOTON/OQ 392090,Low,8.05,1,0,0
+,,,Southampton,1,"Smiljanic, Mr. Mile",159,M,Died,315037,Low,8.6625,1,0,0
+,,,Southampton,11,"Sage, Master. Thomas Henry",160,M,Died,CA. 2343,Low,69.55,1,2,8
+44,40,,Southampton,2,"Cribb, Mr. John Hatfield",161,M,Died,371362,Low,16.1,1,1,0
+40,40,,Southampton,1,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",162,F,Survived,C.A. 33595,Mid,15.75,1,0,0
+26,25,,Southampton,1,"Bengtsson, Mr. John Viktor",163,M,Died,347068,Low,7.775,1,0,0
+17,15,,Southampton,1,"Calic, Mr. Jovo",164,M,Died,315093,Low,8.6625,1,0,0
+1,0,,Southampton,6,"Panula, Master. Eino Viljami",165,M,Died,3101295,Low,39.6875,1,1,4
+9,5,,Southampton,3,"Goldsmith, Master. Frank John William ""Frankie""",166,M,Survived,363291,Low,20.525,1,2,0
+,,E33,Southampton,2,"Chibnall, Mrs. (Edith Martha Bowerman)",167,F,Survived,113505,Up,55,1,1,0
+45,45,,Southampton,6,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",168,F,Died,347088,Low,27.9,1,4,1
+,,,Southampton,1,"Baumann, Mr. John D",169,M,Died,PC 17318,Up,25.925,1,0,0
+28,25,,Southampton,1,"Ling, Mr. Lee",170,M,Died,1601,Low,56.4958,1,0,0
+61,60,B19,Southampton,1,"Van der hoef, Mr. Wyckoff",171,M,Died,111240,Up,33.5,1,0,0
+4,0,,Queenstown,6,"Rice, Master. Arthur",172,M,Died,382652,Low,29.125,1,1,4
+1,0,,Southampton,3,"Johnson, Miss. Eleanor Ileen",173,F,Survived,347742,Low,11.1333,1,1,1
+21,20,,Southampton,1,"Sivola, Mr. Antti Wilhelm",174,M,Died,STON/O 2. 3101280,Low,7.925,1,0,0
+56,55,A7,Cherbourg,1,"Smith, Mr. James Clinch",175,M,Died,17764,Up,30.6958,1,0,0
+18,15,,Southampton,3,"Klasen, Mr. Klas Albin",176,M,Died,350404,Low,7.8542,1,1,1
+,,,Southampton,5,"Lefebre, Master. Henry Forbes",177,M,Died,4133,Low,25.4667,1,1,3
+50,50,C49,Cherbourg,1,"Isham, Miss. Ann Elizabeth",178,F,Died,PC 17595,Up,28.7125,1,0,0
+30,30,,Southampton,1,"Hale, Mr. Reginald",179,M,Died,250653,Mid,13,1,0,0
+36,35,,Southampton,1,"Leonard, Mr. Lionel",180,M,Died,LINE,Low,0,1,0,0
+,,,Southampton,11,"Sage, Miss. Constance Gladys",181,F,Died,CA. 2343,Low,69.55,1,2,8
+,,,Cherbourg,1,"Pernot, Mr. Rene",182,M,Died,SC/PARIS 2131,Mid,15.05,1,0,0
+9,5,,Southampton,7,"Asplund, Master. Clarence Gustaf Hugo",183,M,Died,347077,Low,31.3875,1,2,4
+1,0,F4,Southampton,4,"Becker, Master. Richard F",184,M,Survived,230136,Mid,39,1,1,2
+4,0,,Southampton,3,"Kink-Heilmann, Miss. Luise Gretchen",185,F,Survived,315153,Low,22.025,1,2,0
+,,A32,Southampton,1,"Rood, Mr. Hugh Roscoe",186,M,Died,113767,Up,50,1,0,0
+,,,Queenstown,2,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",187,F,Survived,370365,Low,15.5,1,0,1
+45,45,,Southampton,1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",188,M,Survived,111428,Up,26.55,1,0,0
+40,40,,Queenstown,3,"Bourke, Mr. John",189,M,Died,364849,Low,15.5,1,1,1
+36,35,,Southampton,1,"Turcin, Mr. Stjepan",190,M,Died,349247,Low,7.8958,1,0,0
+32,30,,Southampton,1,"Pinsky, Mrs. (Rosa)",191,F,Survived,234604,Mid,13,1,0,0
+19,15,,Southampton,1,"Carbines, Mr. William",192,M,Died,28424,Mid,13,1,0,0
+19,15,,Southampton,2,"Andersen-Jensen, Miss. Carla Christine Nielsine",193,F,Survived,350046,Low,7.8542,1,0,1
+3,0,F2,Southampton,3,"Navratil, Master. Michel M",194,M,Survived,230080,Mid,26,1,1,1
+44,40,B4,Cherbourg,1,"Brown, Mrs. James Joseph (Margaret Tobin)",195,F,Survived,PC 17610,Up,27.7208,1,0,0
+58,55,B80,Cherbourg,1,"Lurette, Miss. Elise",196,F,Survived,PC 17569,Up,146.5208,1,0,0
+,,,Queenstown,1,"Mernagh, Mr. Robert",197,M,Died,368703,Low,7.75,1,0,0
+42,40,,Southampton,2,"Olsen, Mr. Karl Siegwart Andreas",198,M,Died,4579,Low,8.4042,1,1,0
+,,,Queenstown,1,"Madigan, Miss. Margaret ""Maggie""",199,F,Survived,370370,Low,7.75,1,0,0
+24,20,,Southampton,1,"Yrois, Miss. Henriette (""Mrs Harbeck"")",200,F,Died,248747,Mid,13,1,0,0
+28,25,,Southampton,1,"Vande Walle, Mr. Nestor Cyriel",201,M,Died,345770,Low,9.5,1,0,0
+,,,Southampton,11,"Sage, Mr. Frederick",202,M,Died,CA. 2343,Low,69.55,1,2,8
+34,30,,Southampton,1,"Johanson, Mr. Jakob Alfred",203,M,Died,3101264,Low,6.4958,1,0,0
+45.5,45,,Cherbourg,1,"Youseff, Mr. Gerious",204,M,Died,2628,Low,7.225,1,0,0
+18,15,,Southampton,1,"Cohen, Mr. Gurshon ""Gus""",205,M,Survived,A/5 3540,Low,8.05,1,0,0
+2,0,G6,Southampton,2,"Strom, Miss. Telma Matilda",206,F,Died,347054,Low,10.4625,1,1,0
+32,30,,Southampton,2,"Backstrom, Mr. Karl Alfred",207,M,Died,3101278,Low,15.85,1,0,1
+26,25,,Cherbourg,1,"Albimona, Mr. Nassef Cassem",208,M,Survived,2699,Low,18.7875,1,0,0
+16,15,,Queenstown,1,"Carr, Miss. Helen ""Ellen""",209,F,Survived,367231,Low,7.75,1,0,0
+40,40,A31,Cherbourg,1,"Blank, Mr. Henry",210,M,Survived,112277,Up,31,1,0,0
+24,20,,Southampton,1,"Ali, Mr. Ahmed",211,M,Died,SOTON/O.Q. 3101311,Low,7.05,1,0,0
+35,35,,Southampton,1,"Cameron, Miss. Clear Annie",212,F,Survived,F.C.C. 13528,Mid,21,1,0,0
+22,20,,Southampton,1,"Perkin, Mr. John Henry",213,M,Died,A/5 21174,Low,7.25,1,0,0
+30,30,,Southampton,1,"Givard, Mr. Hans Kristensen",214,M,Died,250646,Mid,13,1,0,0
+,,,Queenstown,2,"Kiernan, Mr. Philip",215,M,Died,367229,Low,7.75,1,0,1
+31,30,D36,Cherbourg,2,"Newell, Miss. Madeleine",216,F,Survived,35273,Up,113.275,1,0,1
+27,25,,Southampton,1,"Honkanen, Miss. Eliina",217,F,Survived,STON/O2. 3101283,Low,7.925,1,0,0
+42,40,,Southampton,2,"Jacobsohn, Mr. Sidney Samuel",218,M,Died,243847,Mid,27,1,0,1
+32,30,D15,Cherbourg,1,"Bazzani, Miss. Albina",219,F,Survived,11813,Up,76.2917,1,0,0
+30,30,,Southampton,1,"Harris, Mr. Walter",220,M,Died,W/C 14208,Mid,10.5,1,0,0
+16,15,,Southampton,1,"Sunderland, Mr. Victor Francis",221,M,Survived,SOTON/OQ 392089,Low,8.05,1,0,0
+27,25,,Southampton,1,"Bracken, Mr. James H",222,M,Died,220367,Mid,13,1,0,0
+51,50,,Southampton,1,"Green, Mr. George Henry",223,M,Died,21440,Low,8.05,1,0,0
+,,,Southampton,1,"Nenkoff, Mr. Christo",224,M,Died,349234,Low,7.8958,1,0,0
+38,35,C93,Southampton,2,"Hoyt, Mr. Frederick Maxfield",225,M,Survived,19943,Up,90,1,0,1
+22,20,,Southampton,1,"Berglund, Mr. Karl Ivar Sven",226,M,Died,PP 4348,Low,9.35,1,0,0
+19,15,,Southampton,1,"Mellors, Mr. William John",227,M,Survived,SW/PP 751,Mid,10.5,1,0,0
+20.5,20,,Southampton,1,"Lovell, Mr. John Hall (""Henry"")",228,M,Died,A/5 21173,Low,7.25,1,0,0
+18,15,,Southampton,1,"Fahlstrom, Mr. Arne Jonas",229,M,Died,236171,Mid,13,1,0,0
+,,,Southampton,5,"Lefebre, Miss. Mathilde",230,F,Died,4133,Low,25.4667,1,1,3
+35,35,C83,Southampton,2,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",231,F,Survived,36973,Up,83.475,1,0,1
+29,25,,Southampton,1,"Larsson, Mr. Bengt Edvin",232,M,Died,347067,Low,7.775,1,0,0
+59,55,,Southampton,1,"Sjostedt, Mr. Ernst Adolf",233,M,Died,237442,Mid,13.5,1,0,0
+5,5,,Southampton,7,"Asplund, Miss. Lillian Gertrud",234,F,Survived,347077,Low,31.3875,1,2,4
+24,20,,Southampton,1,"Leyson, Mr. Robert William Norman",235,M,Died,C.A. 29566,Mid,10.5,1,0,0
+,,,Southampton,1,"Harknett, Miss. Alice Phoebe",236,F,Died,W./C. 6609,Low,7.55,1,0,0
+44,40,,Southampton,2,"Hold, Mr. Stephen",237,M,Died,26707,Mid,26,1,0,1
+8,5,,Southampton,3,"Collyer, Miss. Marjorie ""Lottie""",238,F,Survived,C.A. 31921,Mid,26.25,1,2,0
+19,15,,Southampton,1,"Pengelly, Mr. Frederick William",239,M,Died,28665,Mid,10.5,1,0,0
+33,30,,Southampton,1,"Hunt, Mr. George Henry",240,M,Died,SCO/W 1585,Mid,12.275,1,0,0
+,,,Cherbourg,2,"Zabour, Miss. Thamine",241,F,Died,2665,Low,14.4542,1,0,1
+,,,Queenstown,2,"Murphy, Miss. Katherine ""Kate""",242,F,Survived,367230,Low,15.5,1,0,1
+29,25,,Southampton,1,"Coleridge, Mr. Reginald Charles",243,M,Died,W./C. 14263,Mid,10.5,1,0,0
+22,20,,Southampton,1,"Maenpaa, Mr. Matti Alexanteri",244,M,Died,STON/O 2. 3101275,Low,7.125,1,0,0
+30,30,,Cherbourg,1,"Attalah, Mr. Sleiman",245,M,Died,2694,Low,7.225,1,0,0
+44,40,C78,Queenstown,3,"Minahan, Dr. William Edward",246,M,Died,19928,Up,90,1,0,2
+25,25,,Southampton,1,"Lindahl, Miss. Agda Thorilda Viktoria",247,F,Died,347071,Low,7.775,1,0,0
+24,20,,Southampton,3,"Hamalainen, Mrs. William (Anna)",248,F,Survived,250649,Mid,14.5,1,2,0
+37,35,D35,Southampton,3,"Beckwith, Mr. Richard Leonard",249,M,Survived,11751,Up,52.5542,1,1,1
+54,50,,Southampton,2,"Carter, Rev. Ernest Courtenay",250,M,Died,244252,Mid,26,1,0,1
+,,,Southampton,1,"Reed, Mr. James George",251,M,Died,362316,Low,7.25,1,0,0
+29,25,G6,Southampton,3,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",252,F,Died,347054,Low,10.4625,1,1,1
+62,60,C87,Southampton,1,"Stead, Mr. William Thomas",253,M,Died,113514,Up,26.55,1,0,0
+30,30,,Southampton,2,"Lobb, Mr. William Arthur",254,M,Died,A/5. 3336,Low,16.1,1,0,1
+41,40,,Southampton,3,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",255,F,Died,370129,Low,20.2125,1,2,0
+29,25,,Cherbourg,3,"Touma, Mrs. Darwis (Hanne Youssef Razi)",256,F,Survived,2650,Low,15.2458,1,2,0
+,,,Cherbourg,1,"Thorne, Mrs. Gertrude Maybelle",257,F,Survived,PC 17585,Up,79.2,1,0,0
+30,30,B77,Southampton,1,"Cherry, Miss. Gladys",258,F,Survived,110152,Up,86.5,1,0,0
+35,35,,Cherbourg,1,"Ward, Miss. Anna",259,F,Survived,PC 17755,Up,512.3292,1,0,0
+50,50,,Southampton,2,"Parrish, Mrs. (Lutie Davis)",260,F,Survived,230433,Mid,26,1,1,0
+,,,Queenstown,1,"Smith, Mr. Thomas",261,M,Died,384461,Low,7.75,1,0,0
+3,0,,Southampton,7,"Asplund, Master. Edvin Rojj Felix",262,M,Survived,347077,Low,31.3875,1,2,4
+52,50,E67,Southampton,3,"Taussig, Mr. Emil",263,M,Died,110413,Up,79.65,1,1,1
+40,40,B94,Southampton,1,"Harrison, Mr. William",264,M,Died,112059,Up,0,1,0,0
+,,,Queenstown,1,"Henry, Miss. Delia",265,F,Died,382649,Low,7.75,1,0,0
+36,35,,Southampton,1,"Reeves, Mr. David",266,M,Died,C.A. 17248,Mid,10.5,1,0,0
+16,15,,Southampton,6,"Panula, Mr. Ernesti Arvid",267,M,Died,3101295,Low,39.6875,1,1,4
+25,25,,Southampton,2,"Persson, Mr. Ernst Ulrik",268,M,Survived,347083,Low,7.775,1,0,1
+58,55,C125,Southampton,2,"Graham, Mrs. William Thompson (Edith Junkins)",269,F,Survived,PC 17582,Up,153.4625,1,1,0
+35,35,C99,Southampton,1,"Bissette, Miss. Amelia",270,F,Survived,PC 17760,Up,135.6333,1,0,0
+,,,Southampton,1,"Cairns, Mr. Alexander",271,M,Died,113798,Up,31,1,0,0
+25,25,,Southampton,1,"Tornquist, Mr. William Henry",272,M,Survived,LINE,Low,0,1,0,0
+41,40,,Southampton,2,"Mellinger, Mrs. (Elizabeth Anne Maidment)",273,F,Survived,250644,Mid,19.5,1,1,0
+37,35,C118,Cherbourg,2,"Natsch, Mr. Charles H",274,M,Died,PC 17596,Up,29.7,1,1,0
+,,,Queenstown,1,"Healy, Miss. Hanora ""Nora""",275,F,Survived,370375,Low,7.75,1,0,0
+63,60,D7,Southampton,2,"Andrews, Miss. Kornelia Theodosia",276,F,Survived,13502,Up,77.9583,1,0,1
+45,45,,Southampton,1,"Lindblom, Miss. Augusta Charlotta",277,F,Died,347073,Low,7.75,1,0,0
+,,,Southampton,1,"Parkes, Mr. Francis ""Frank""",278,M,Died,239853,Mid,0,1,0,0
+7,5,,Queenstown,6,"Rice, Master. Eric",279,M,Died,382652,Low,29.125,1,1,4
+35,35,,Southampton,3,"Abbott, Mrs. Stanton (Rosa Hunt)",280,F,Survived,C.A. 2673,Low,20.25,1,1,1
+65,65,,Queenstown,1,"Duane, Mr. Frank",281,M,Died,336439,Low,7.75,1,0,0
+28,25,,Southampton,1,"Olsson, Mr. Nils Johan Goransson",282,M,Died,347464,Low,7.8542,1,0,0
+16,15,,Southampton,1,"de Pelsmaeker, Mr. Alfons",283,M,Died,345778,Low,9.5,1,0,0
+19,15,,Southampton,1,"Dorking, Mr. Edward Arthur",284,M,Survived,A/5. 10482,Low,8.05,1,0,0
+,,A19,Southampton,1,"Smith, Mr. Richard William",285,M,Died,113056,Up,26,1,0,0
+33,30,,Cherbourg,1,"Stankovic, Mr. Ivan",286,M,Died,349239,Low,8.6625,1,0,0
+30,30,,Southampton,1,"de Mulder, Mr. Theodore",287,M,Survived,345774,Low,9.5,1,0,0
+22,20,,Southampton,1,"Naidenoff, Mr. Penko",288,M,Died,349206,Low,7.8958,1,0,0
+42,40,,Southampton,1,"Hosono, Mr. Masabumi",289,M,Survived,237798,Mid,13,1,0,0
+22,20,,Queenstown,1,"Connolly, Miss. Kate",290,F,Survived,370373,Low,7.75,1,0,0
+26,25,,Southampton,1,"Barber, Miss. Ellen ""Nellie""",291,F,Survived,19877,Up,78.85,1,0,0
+19,15,B49,Cherbourg,2,"Bishop, Mrs. Dickinson H (Helen Walton)",292,F,Survived,11967,Up,91.0792,1,0,1
+36,35,D,Cherbourg,1,"Levy, Mr. Rene Jacques",293,M,Died,SC/Paris 2163,Mid,12.875,1,0,0
+24,20,,Southampton,1,"Haas, Miss. Aloisia",294,F,Died,349236,Low,8.85,1,0,0
+24,20,,Southampton,1,"Mineff, Mr. Ivan",295,M,Died,349233,Low,7.8958,1,0,0
+,,,Cherbourg,1,"Lewy, Mr. Ervin G",296,M,Died,PC 17612,Up,27.7208,1,0,0
+23.5,20,,Cherbourg,1,"Hanna, Mr. Mansour",297,M,Died,2693,Low,7.2292,1,0,0
+2,0,C22 C26,Southampton,4,"Allison, Miss. Helen Loraine",298,F,Died,113781,Up,151.55,1,2,1
+,,C106,Southampton,1,"Saalfeld, Mr. Adolphe",299,M,Survived,19988,Up,30.5,1,0,0
+50,50,B58 B60,Cherbourg,2,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",300,F,Survived,PC 17558,Up,247.5208,1,1,0
+,,,Queenstown,1,"Kelly, Miss. Anna Katherine ""Annie Kate""",301,F,Survived,9234,Low,7.75,1,0,0
+,,,Queenstown,3,"McCoy, Mr. Bernard",302,M,Survived,367226,Low,23.25,1,0,2
+19,15,,Southampton,1,"Johnson, Mr. William Cahoone Jr",303,M,Died,LINE,Low,0,1,0,0
+,,E101,Queenstown,1,"Keane, Miss. Nora A",304,F,Survived,226593,Mid,12.35,1,0,0
+,,,Southampton,1,"Williams, Mr. Howard Hugh ""Harry""",305,M,Died,A/5 2466,Low,8.05,1,0,0
+0.92,0,C22 C26,Southampton,4,"Allison, Master. Hudson Trevor",306,M,Survived,113781,Up,151.55,1,2,1
+,,,Cherbourg,1,"Fleming, Miss. Margaret",307,F,Survived,17421,Up,110.8833,1,0,0
+17,15,C65,Cherbourg,2,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",308,F,Survived,PC 17758,Up,108.9,1,0,1
+30,30,,Cherbourg,2,"Abelson, Mr. Samuel",309,M,Died,P/PP 3381,Mid,24,1,0,1
+30,30,E36,Cherbourg,1,"Francatelli, Miss. Laura Mabel",310,F,Survived,PC 17485,Up,56.9292,1,0,0
+24,20,C54,Cherbourg,1,"Hays, Miss. Margaret Bechstein",311,F,Survived,11767,Up,83.1583,1,0,0
+18,15,B57 B59 B63 B66,Cherbourg,5,"Ryerson, Miss. Emily Borie",312,F,Survived,PC 17608,Up,262.375,1,2,2
+26,25,,Southampton,3,"Lahtinen, Mrs. William (Anna Sylfven)",313,F,Died,250651,Mid,26,1,1,1
+28,25,,Southampton,1,"Hendekovic, Mr. Ignjac",314,M,Died,349243,Low,7.8958,1,0,0
+43,40,,Southampton,3,"Hart, Mr. Benjamin",315,M,Died,F.C.C. 13529,Mid,26.25,1,1,1
+26,25,,Southampton,1,"Nilsson, Miss. Helmina Josefina",316,F,Survived,347470,Low,7.8542,1,0,0
+24,20,,Southampton,2,"Kantor, Mrs. Sinai (Miriam Sternin)",317,F,Survived,244367,Mid,26,1,0,1
+54,50,,Southampton,1,"Moraweck, Dr. Ernest",318,M,Died,29011,Mid,14,1,0,0
+31,30,C7,Southampton,3,"Wick, Miss. Mary Natalie",319,F,Survived,36928,Up,164.8667,1,2,0
+40,40,E34,Cherbourg,3,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",320,F,Survived,16966,Up,134.5,1,1,1
+22,20,,Southampton,1,"Dennis, Mr. Samuel",321,M,Died,A/5 21172,Low,7.25,1,0,0
+27,25,,Southampton,1,"Danoff, Mr. Yoto",322,M,Died,349219,Low,7.8958,1,0,0
+30,30,,Queenstown,1,"Slayter, Miss. Hilda Mary",323,F,Survived,234818,Mid,12.35,1,0,0
+22,20,,Southampton,3,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",324,F,Survived,248738,Mid,29,1,1,1
+,,,Southampton,11,"Sage, Mr. George John Jr",325,M,Died,CA. 2343,Low,69.55,1,2,8
+36,35,C32,Cherbourg,1,"Young, Miss. Marie Grice",326,F,Survived,PC 17760,Up,135.6333,1,0,0
+61,60,,Southampton,1,"Nysveen, Mr. Johan Hansen",327,M,Died,345364,Low,6.2375,1,0,0
+36,35,D,Southampton,1,"Ball, Mrs. (Ada E Hall)",328,F,Survived,28551,Mid,13,1,0,0
+31,30,,Southampton,3,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",329,F,Survived,363291,Low,20.525,1,1,1
+16,15,B18,Cherbourg,2,"Hippach, Miss. Jean Gertrude",330,F,Survived,111361,Up,57.9792,1,1,0
+,,,Queenstown,3,"McCoy, Miss. Agnes",331,F,Survived,367226,Low,23.25,1,0,2
+45.5,45,C124,Southampton,1,"Partner, Mr. Austen",332,M,Died,113043,Up,28.5,1,0,0
+38,35,C91,Southampton,2,"Graham, Mr. George Edward",333,M,Died,PC 17582,Up,153.4625,1,1,0
+16,15,,Southampton,3,"Vander Planke, Mr. Leo Edmondus",334,M,Died,345764,Low,18,1,0,2
+,,,Southampton,2,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",335,F,Survived,PC 17611,Up,133.65,1,0,1
+,,,Southampton,1,"Denkoff, Mr. Mitto",336,M,Died,349225,Low,7.8958,1,0,0
+29,25,C2,Southampton,2,"Pears, Mr. Thomas Clinton",337,M,Died,113776,Up,66.6,1,0,1
+41,40,E40,Cherbourg,1,"Burns, Miss. Elizabeth Margaret",338,F,Survived,16966,Up,134.5,1,0,0
+45,45,,Southampton,1,"Dahl, Mr. Karl Edwart",339,M,Survived,7598,Low,8.05,1,0,0
+45,45,T,Southampton,1,"Blackwell, Mr. Stephen Weart",340,M,Died,113784,Up,35.5,1,0,0
+2,0,F2,Southampton,3,"Navratil, Master. Edmond Roger",341,M,Survived,230080,Mid,26,1,1,1
+24,20,C23 C25 C27,Southampton,6,"Fortune, Miss. Alice Elizabeth",342,F,Survived,19950,Up,263,1,2,3
+28,25,,Southampton,1,"Collander, Mr. Erik Gustaf",343,M,Died,248740,Mid,13,1,0,0
+25,25,,Southampton,1,"Sedgwick, Mr. Charles Frederick Waddington",344,M,Died,244361,Mid,13,1,0,0
+36,35,,Southampton,1,"Fox, Mr. Stanley Hubert",345,M,Died,229236,Mid,13,1,0,0
+24,20,F33,Southampton,1,"Brown, Miss. Amelia ""Mildred""",346,F,Survived,248733,Mid,13,1,0,0
+40,40,,Southampton,1,"Smith, Miss. Marion Elsie",347,F,Survived,31418,Mid,13,1,0,0
+,,,Southampton,2,"Davison, Mrs. Thomas Henry (Mary E Finck)",348,F,Survived,386525,Low,16.1,1,0,1
+3,0,,Southampton,3,"Coutts, Master. William Loch ""William""",349,M,Survived,C.A. 37671,Low,15.9,1,1,1
+42,40,,Southampton,1,"Dimic, Mr. Jovan",350,M,Died,315088,Low,8.6625,1,0,0
+23,20,,Southampton,1,"Odahl, Mr. Nils Martin",351,M,Died,7267,Low,9.225,1,0,0
+,,C128,Southampton,1,"Williams-Lambert, Mr. Fletcher Fellows",352,M,Died,113510,Up,35,1,0,0
+15,15,,Cherbourg,3,"Elias, Mr. Tannous",353,M,Died,2695,Low,7.2292,1,1,1
+25,25,,Southampton,2,"Arnold-Franchi, Mr. Josef",354,M,Died,349237,Low,17.8,1,0,1
+,,,Cherbourg,1,"Yousif, Mr. Wazli",355,M,Died,2647,Low,7.225,1,0,0
+28,25,,Southampton,1,"Vanden Steen, Mr. Leo Peter",356,M,Died,345783,Low,9.5,1,0,0
+22,20,E33,Southampton,2,"Bowerman, Miss. Elsie Edith",357,F,Survived,113505,Up,55,1,1,0
+38,35,,Southampton,1,"Funk, Miss. Annie Clemmer",358,F,Died,237671,Mid,13,1,0,0
+,,,Queenstown,1,"McGovern, Miss. Mary",359,F,Survived,330931,Low,7.8792,1,0,0
+,,,Queenstown,1,"Mockler, Miss. Helen Mary ""Ellie""",360,F,Survived,330980,Low,7.8792,1,0,0
+40,40,,Southampton,6,"Skoog, Mr. Wilhelm",361,M,Died,347088,Low,27.9,1,4,1
+29,25,,Cherbourg,2,"del Carlo, Mr. Sebastiano",362,M,Died,SC/PARIS 2167,Mid,27.7208,1,0,1
+45,45,,Cherbourg,2,"Barbara, Mrs. (Catherine David)",363,F,Died,2691,Low,14.4542,1,1,0
+35,35,,Southampton,1,"Asim, Mr. Adola",364,M,Died,SOTON/O.Q. 3101310,Low,7.05,1,0,0
+,,,Queenstown,2,"O'Brien, Mr. Thomas",365,M,Died,370365,Low,15.5,1,0,1
+30,30,,Southampton,1,"Adahl, Mr. Mauritz Nils Martin",366,M,Died,C 7076,Low,7.25,1,0,0
+60,60,D37,Cherbourg,2,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",367,F,Survived,110813,Up,75.25,1,0,1
+,,,Cherbourg,1,"Moussa, Mrs. (Mantoura Boulos)",368,F,Survived,2626,Low,7.2292,1,0,0
+,,,Queenstown,1,"Jermyn, Miss. Annie",369,F,Survived,14313,Low,7.75,1,0,0
+24,20,B35,Cherbourg,1,"Aubart, Mme. Leontine Pauline",370,F,Survived,PC 17477,Up,69.3,1,0,0
+25,25,E50,Cherbourg,2,"Harder, Mr. George Achilles",371,M,Survived,11765,Up,55.4417,1,0,1
+18,15,,Southampton,2,"Wiklund, Mr. Jakob Alfred",372,M,Died,3101267,Low,6.4958,1,0,1
+19,15,,Southampton,1,"Beavan, Mr. William Thomas",373,M,Died,323951,Low,8.05,1,0,0
+22,20,,Cherbourg,1,"Ringhini, Mr. Sante",374,M,Died,PC 17760,Up,135.6333,1,0,0
+3,0,,Southampton,5,"Palsson, Miss. Stina Viola",375,F,Died,349909,Low,21.075,1,1,3
+,,,Cherbourg,2,"Meyer, Mrs. Edgar Joseph (Leila Saks)",376,F,Survived,PC 17604,Up,82.1708,1,0,1
+22,20,,Southampton,1,"Landergren, Miss. Aurora Adelia",377,F,Survived,C 7077,Low,7.25,1,0,0
+27,25,C82,Cherbourg,3,"Widener, Mr. Harry Elkins",378,M,Died,113503,Up,211.5,1,2,0
+20,20,,Cherbourg,1,"Betros, Mr. Tannous",379,M,Died,2648,Low,4.0125,1,0,0
+19,15,,Southampton,1,"Gustafsson, Mr. Karl Gideon",380,M,Died,347069,Low,7.775,1,0,0
+42,40,,Cherbourg,1,"Bidois, Miss. Rosalie",381,F,Survived,PC 17757,Up,227.525,1,0,0
+1,0,,Cherbourg,3,"Nakid, Miss. Maria (""Mary"")",382,F,Survived,2653,Low,15.7417,1,2,0
+32,30,,Southampton,1,"Tikkanen, Mr. Juho",383,M,Died,STON/O 2. 3101293,Low,7.925,1,0,0
+35,35,,Southampton,2,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",384,F,Survived,113789,Up,52,1,0,1
+,,,Southampton,1,"Plotcharsky, Mr. Vasil",385,M,Died,349227,Low,7.8958,1,0,0
+18,15,,Southampton,1,"Davies, Mr. Charles Henry",386,M,Died,S.O.C. 14879,Mid,73.5,1,0,0
+1,0,,Southampton,8,"Goodwin, Master. Sidney Leonard",387,M,Died,CA 2144,Low,46.9,1,2,5
+36,35,,Southampton,1,"Buss, Miss. Kate",388,F,Survived,27849,Mid,13,1,0,0
+,,,Queenstown,1,"Sadlier, Mr. Matthew",389,M,Died,367655,Low,7.7292,1,0,0
+17,15,,Cherbourg,1,"Lehmann, Miss. Bertha",390,F,Survived,SC 1748,Mid,12,1,0,0
+36,35,B96 B98,Southampton,4,"Carter, Mr. William Ernest",391,M,Survived,113760,Up,120,1,2,1
+21,20,,Southampton,1,"Jansson, Mr. Carl Olof",392,M,Survived,350034,Low,7.7958,1,0,0
+28,25,,Southampton,3,"Gustafsson, Mr. Johan Birger",393,M,Died,3101277,Low,7.925,1,0,2
+23,20,D36,Cherbourg,2,"Newell, Miss. Marjorie",394,F,Survived,35273,Up,113.275,1,0,1
+24,20,G6,Southampton,3,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",395,F,Survived,PP 9549,Low,16.7,1,2,0
+22,20,,Southampton,1,"Johansson, Mr. Erik",396,M,Died,350052,Low,7.7958,1,0,0
+31,30,,Southampton,1,"Olsson, Miss. Elina",397,F,Died,350407,Low,7.8542,1,0,0
+46,45,,Southampton,1,"McKane, Mr. Peter David",398,M,Died,28403,Mid,26,1,0,0
+23,20,,Southampton,1,"Pain, Dr. Alfred",399,M,Died,244278,Mid,10.5,1,0,0
+28,25,,Southampton,1,"Trout, Mrs. William H (Jessie L)",400,F,Survived,240929,Mid,12.65,1,0,0
+39,35,,Southampton,1,"Niskanen, Mr. Juha",401,M,Survived,STON/O 2. 3101289,Low,7.925,1,0,0
+26,25,,Southampton,1,"Adams, Mr. John",402,M,Died,341826,Low,8.05,1,0,0
+21,20,,Southampton,2,"Jussila, Miss. Mari Aina",403,F,Died,4137,Low,9.825,1,0,1
+28,25,,Southampton,2,"Hakkarainen, Mr. Pekka Pietari",404,M,Died,STON/O2. 3101279,Low,15.85,1,0,1
+20,20,,Southampton,1,"Oreskovic, Miss. Marija",405,F,Died,315096,Low,8.6625,1,0,0
+34,30,,Southampton,2,"Gale, Mr. Shadrach",406,M,Died,28664,Mid,21,1,0,1
+51,50,,Southampton,1,"Widegren, Mr. Carl/Charles Peter",407,M,Died,347064,Low,7.75,1,0,0
+3,0,,Southampton,3,"Richards, Master. William Rowe",408,M,Survived,29106,Mid,18.75,1,1,1
+21,20,,Southampton,1,"Birkeland, Mr. Hans Martin Monsen",409,M,Died,312992,Low,7.775,1,0,0
+,,,Southampton,5,"Lefebre, Miss. Ida",410,F,Died,4133,Low,25.4667,1,1,3
+,,,Southampton,1,"Sdycoff, Mr. Todor",411,M,Died,349222,Low,7.8958,1,0,0
+,,,Queenstown,1,"Hart, Mr. Henry",412,M,Died,394140,Low,6.8583,1,0,0
+33,30,C78,Queenstown,2,"Minahan, Miss. Daisy E",413,F,Survived,19928,Up,90,1,0,1
+,,,Southampton,1,"Cunningham, Mr. Alfred Fleming",414,M,Died,239853,Mid,0,1,0,0
+44,40,,Southampton,1,"Sundman, Mr. Johan Julian",415,M,Survived,STON/O 2. 3101269,Low,7.925,1,0,0
+,,,Southampton,1,"Meek, Mrs. Thomas (Annie Louise Rowley)",416,F,Died,343095,Low,8.05,1,0,0
+34,30,,Southampton,3,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",417,F,Survived,28220,Mid,32.5,1,1,1
+18,15,,Southampton,3,"Silven, Miss. Lyyli Karoliina",418,F,Survived,250652,Mid,13,1,2,0
+30,30,,Southampton,1,"Matthews, Mr. William John",419,M,Died,28228,Mid,13,1,0,0
+10,10,,Southampton,3,"Van Impe, Miss. Catharina",420,F,Died,345773,Low,24.15,1,2,0
+,,,Cherbourg,1,"Gheorgheff, Mr. Stanio",421,M,Died,349254,Low,7.8958,1,0,0
+21,20,,Queenstown,1,"Charters, Mr. David",422,M,Died,A/5. 13032,Low,7.7333,1,0,0
+29,25,,Southampton,1,"Zimmerman, Mr. Leo",423,M,Died,315082,Low,7.875,1,0,0
+28,25,,Southampton,3,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",424,F,Died,347080,Low,14.4,1,1,1
+18,15,,Southampton,3,"Rosblom, Mr. Viktor Richard",425,M,Died,370129,Low,20.2125,1,1,1
+,,,Southampton,1,"Wiseman, Mr. Phillippe",426,M,Died,A/4. 34244,Low,7.25,1,0,0
+28,25,,Southampton,2,"Clarke, Mrs. Charles V (Ada Maria Winfield)",427,F,Survived,2003,Mid,26,1,0,1
+19,15,,Southampton,1,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",428,F,Survived,250655,Mid,26,1,0,0
+,,,Queenstown,1,"Flynn, Mr. James",429,M,Died,364851,Low,7.75,1,0,0
+32,30,E10,Southampton,1,"Pickard, Mr. Berk (Berk Trembisky)",430,M,Survived,SOTON/O.Q. 392078,Low,8.05,1,0,0
+28,25,C52,Southampton,1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",431,M,Survived,110564,Up,26.55,1,0,0
+,,,Southampton,2,"Thorneycroft, Mrs. Percival (Florence Kate White)",432,F,Survived,376564,Low,16.1,1,0,1
+42,40,,Southampton,2,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",433,F,Survived,SC/AH 3085,Mid,26,1,0,1
+17,15,,Southampton,1,"Kallio, Mr. Nikolai Erland",434,M,Died,STON/O 2. 3101274,Low,7.125,1,0,0
+50,50,E44,Southampton,2,"Silvey, Mr. William Baird",435,M,Died,13507,Up,55.9,1,0,1
+14,10,B96 B98,Southampton,4,"Carter, Miss. Lucile Polk",436,F,Survived,113760,Up,120,1,2,1
+21,20,,Southampton,5,"Ford, Miss. Doolina Margaret ""Daisy""",437,F,Died,W./C. 6608,Low,34.375,1,2,2
+24,20,,Southampton,6,"Richards, Mrs. Sidney (Emily Hocking)",438,F,Survived,29106,Mid,18.75,1,3,2
+64,60,C23 C25 C27,Southampton,6,"Fortune, Mr. Mark",439,M,Died,19950,Up,263,1,4,1
+31,30,,Southampton,1,"Kvillner, Mr. Johan Henrik Johannesson",440,M,Died,C.A. 18723,Mid,10.5,1,0,0
+45,45,,Southampton,3,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",441,F,Survived,F.C.C. 13529,Mid,26.25,1,1,1
+20,20,,Southampton,1,"Hampe, Mr. Leon",442,M,Died,345769,Low,9.5,1,0,0
+25,25,,Southampton,2,"Petterson, Mr. Johan Emil",443,M,Died,347076,Low,7.775,1,0,1
+28,25,,Southampton,1,"Reynaldo, Ms. Encarnacion",444,F,Survived,230434,Mid,13,1,0,0
+,,,Southampton,1,"Johannesen-Bratthammer, Mr. Bernt",445,M,Survived,65306,Low,8.1125,1,0,0
+4,0,A34,Southampton,3,"Dodge, Master. Washington",446,M,Survived,33638,Up,81.8583,1,2,0
+13,10,,Southampton,2,"Mellinger, Miss. Madeleine Violet",447,F,Survived,250644,Mid,19.5,1,1,0
+34,30,,Southampton,1,"Seward, Mr. Frederic Kimber",448,M,Survived,113794,Up,26.55,1,0,0
+5,5,,Cherbourg,4,"Baclini, Miss. Marie Catherine",449,F,Survived,2666,Low,19.2583,1,1,2
+52,50,C104,Southampton,1,"Peuchen, Major. Arthur Godfrey",450,M,Survived,113786,Up,30.5,1,0,0
+36,35,,Southampton,4,"West, Mr. Edwy Arthur",451,M,Died,C.A. 34651,Mid,27.75,1,2,1
+,,,Southampton,2,"Hagland, Mr. Ingvald Olai Olsen",452,M,Died,65303,Low,19.9667,1,0,1
+30,30,C111,Cherbourg,1,"Foreman, Mr. Benjamin Laventall",453,M,Died,113051,Up,27.75,1,0,0
+49,45,C92,Cherbourg,2,"Goldenberg, Mr. Samuel L",454,M,Survived,17453,Up,89.1042,1,0,1
+,,,Southampton,1,"Peduzzi, Mr. Joseph",455,M,Died,A/5 2817,Low,8.05,1,0,0
+29,25,,Cherbourg,1,"Jalsevac, Mr. Ivan",456,M,Survived,349240,Low,7.8958,1,0,0
+65,65,E38,Southampton,1,"Millet, Mr. Francis Davis",457,M,Died,13509,Up,26.55,1,0,0
+,,D21,Southampton,2,"Kenyon, Mrs. Frederick R (Marion)",458,F,Survived,17464,Up,51.8625,1,0,1
+50,50,,Southampton,1,"Toomey, Miss. Ellen",459,F,Survived,F.C.C. 13531,Mid,10.5,1,0,0
+,,,Queenstown,1,"O'Connor, Mr. Maurice",460,M,Died,371060,Low,7.75,1,0,0
+48,45,E12,Southampton,1,"Anderson, Mr. Harry",461,M,Survived,19952,Up,26.55,1,0,0
+34,30,,Southampton,1,"Morley, Mr. William",462,M,Died,364506,Low,8.05,1,0,0
+47,45,E63,Southampton,1,"Gee, Mr. Arthur H",463,M,Died,111320,Up,38.5,1,0,0
+48,45,,Southampton,1,"Milling, Mr. Jacob Christian",464,M,Died,234360,Mid,13,1,0,0
+,,,Southampton,1,"Maisner, Mr. Simon",465,M,Died,A/S 2816,Low,8.05,1,0,0
+38,35,,Southampton,1,"Goncalves, Mr. Manuel Estanslas",466,M,Died,SOTON/O.Q. 3101306,Low,7.05,1,0,0
+,,,Southampton,1,"Campbell, Mr. William",467,M,Died,239853,Mid,0,1,0,0
+56,55,,Southampton,1,"Smart, Mr. John Montgomery",468,M,Died,113792,Up,26.55,1,0,0
+,,,Queenstown,1,"Scanlan, Mr. James",469,M,Died,36209,Low,7.725,1,0,0
+0.75,0,,Cherbourg,4,"Baclini, Miss. Helene Barbara",470,F,Survived,2666,Low,19.2583,1,1,2
+,,,Southampton,1,"Keefe, Mr. Arthur",471,M,Died,323592,Low,7.25,1,0,0
+38,35,,Southampton,1,"Cacic, Mr. Luka",472,M,Died,315089,Low,8.6625,1,0,0
+33,30,,Southampton,4,"West, Mrs. Edwy Arthur (Ada Mary Worth)",473,F,Survived,C.A. 34651,Mid,27.75,1,2,1
+23,20,D,Cherbourg,1,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",474,F,Survived,SC/AH Basle 541,Mid,13.7917,1,0,0
+22,20,,Southampton,1,"Strandberg, Miss. Ida Sofia",475,F,Died,7553,Low,9.8375,1,0,0
+,,A14,Southampton,1,"Clifford, Mr. George Quincy",476,M,Died,110465,Up,52,1,0,0
+34,30,,Southampton,2,"Renouf, Mr. Peter Henry",477,M,Died,31027,Mid,21,1,0,1
+29,25,,Southampton,2,"Braund, Mr. Lewis Richard",478,M,Died,3460,Low,7.0458,1,0,1
+22,20,,Southampton,1,"Karlsson, Mr. Nils August",479,M,Died,350060,Low,7.5208,1,0,0
+2,0,,Southampton,2,"Hirvonen, Miss. Hildur E",480,F,Survived,3101298,Low,12.2875,1,1,0
+9,5,,Southampton,8,"Goodwin, Master. Harold Victor",481,M,Died,CA 2144,Low,46.9,1,2,5
+,,,Southampton,1,"Frost, Mr. Anthony Wood ""Archie""",482,M,Died,239854,Mid,0,1,0,0
+50,50,,Southampton,1,"Rouse, Mr. Richard Henry",483,M,Died,A/5 3594,Low,8.05,1,0,0
+63,60,,Southampton,1,"Turkula, Mrs. (Hedwig)",484,F,Survived,4134,Low,9.5875,1,0,0
+25,25,B49,Cherbourg,2,"Bishop, Mr. Dickinson H",485,M,Survived,11967,Up,91.0792,1,0,1
+,,,Southampton,5,"Lefebre, Miss. Jeannie",486,F,Died,4133,Low,25.4667,1,1,3
+35,35,C93,Southampton,2,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",487,F,Survived,19943,Up,90,1,0,1
+58,55,B37,Cherbourg,1,"Kent, Mr. Edward Austin",488,M,Died,11771,Up,29.7,1,0,0
+30,30,,Southampton,1,"Somerton, Mr. Francis William",489,M,Died,A.5. 18509,Low,8.05,1,0,0
+9,5,,Southampton,3,"Coutts, Master. Eden Leslie ""Neville""",490,M,Survived,C.A. 37671,Low,15.9,1,1,1
+,,,Southampton,2,"Hagland, Mr. Konrad Mathias Reiersen",491,M,Died,65304,Low,19.9667,1,0,1
+21,20,,Southampton,1,"Windelov, Mr. Einar",492,M,Died,SOTON/OQ 3101317,Low,7.25,1,0,0
+55,55,C30,Southampton,1,"Molson, Mr. Harry Markland",493,M,Died,113787,Up,30.5,1,0,0
+71,70,,Cherbourg,1,"Artagaveytia, Mr. Ramon",494,M,Died,PC 17609,Up,49.5042,1,0,0
+21,20,,Southampton,1,"Stanley, Mr. Edward Roland",495,M,Died,A/4 45380,Low,8.05,1,0,0
+,,,Cherbourg,1,"Yousseff, Mr. Gerious",496,M,Died,2627,Low,14.4583,1,0,0
+54,50,D20,Cherbourg,2,"Eustis, Miss. Elizabeth Mussey",497,F,Survived,36947,Up,78.2667,1,0,1
+,,,Southampton,1,"Shellard, Mr. Frederick William",498,M,Died,C.A. 6212,Low,15.1,1,0,0
+25,25,C22 C26,Southampton,4,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",499,F,Died,113781,Up,151.55,1,2,1
+24,20,,Southampton,1,"Svensson, Mr. Olof",500,M,Died,350035,Low,7.7958,1,0,0
+17,15,,Southampton,1,"Calic, Mr. Petar",501,M,Died,315086,Low,8.6625,1,0,0
+21,20,,Queenstown,1,"Canavan, Miss. Mary",502,F,Died,364846,Low,7.75,1,0,0
+,,,Queenstown,1,"O'Sullivan, Miss. Bridget Mary",503,F,Died,330909,Low,7.6292,1,0,0
+37,35,,Southampton,1,"Laitinen, Miss. Kristina Sofia",504,F,Died,4135,Low,9.5875,1,0,0
+16,15,B79,Southampton,1,"Maioni, Miss. Roberta",505,F,Survived,110152,Up,86.5,1,0,0
+18,15,C65,Cherbourg,2,"Penasco y Castellana, Mr. Victor de Satode",506,M,Died,PC 17758,Up,108.9,1,0,1
+33,30,,Southampton,3,"Quick, Mrs. Frederick Charles (Jane Richards)",507,F,Survived,26360,Mid,26,1,2,0
+,,,Southampton,1,"Bradley, Mr. George (""George Arthur Brayton"")",508,M,Survived,111427,Up,26.55,1,0,0
+28,25,,Southampton,1,"Olsen, Mr. Henry Margido",509,M,Died,C 4001,Low,22.525,1,0,0
+26,25,,Southampton,1,"Lang, Mr. Fang",510,M,Survived,1601,Low,56.4958,1,0,0
+29,25,,Queenstown,1,"Daly, Mr. Eugene Patrick",511,M,Survived,382651,Low,7.75,1,0,0
+,,,Southampton,1,"Webber, Mr. James",512,M,Died,SOTON/OQ 3101316,Low,8.05,1,0,0
+36,35,E25,Southampton,1,"McGough, Mr. James Robert",513,M,Survived,PC 17473,Up,26.2875,1,0,0
+54,50,,Cherbourg,2,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",514,F,Survived,PC 17603,Up,59.4,1,0,1
+24,20,,Southampton,1,"Coleff, Mr. Satio",515,M,Died,349209,Low,7.4958,1,0,0
+47,45,D46,Southampton,1,"Walker, Mr. William Anderson",516,M,Died,36967,Up,34.0208,1,0,0
+34,30,F33,Southampton,1,"Lemore, Mrs. (Amelia Milley)",517,F,Survived,C.A. 34260,Mid,10.5,1,0,0
+,,,Queenstown,1,"Ryan, Mr. Patrick",518,M,Died,371110,Low,24.15,1,0,0
+36,35,,Southampton,2,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",519,F,Survived,226875,Mid,26,1,0,1
+32,30,,Southampton,1,"Pavlovic, Mr. Stefo",520,M,Died,349242,Low,7.8958,1,0,0
+30,30,B73,Southampton,1,"Perreault, Miss. Anne",521,F,Survived,12749,Up,93.5,1,0,0
+22,20,,Southampton,1,"Vovk, Mr. Janko",522,M,Died,349252,Low,7.8958,1,0,0
+,,,Cherbourg,1,"Lahoud, Mr. Sarkis",523,M,Died,2624,Low,7.225,1,0,0
+44,40,B18,Cherbourg,2,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",524,F,Survived,111361,Up,57.9792,1,1,0
+,,,Cherbourg,1,"Kassem, Mr. Fared",525,M,Died,2700,Low,7.2292,1,0,0
+40.5,40,,Queenstown,1,"Farrell, Mr. James",526,M,Died,367232,Low,7.75,1,0,0
+50,50,,Southampton,1,"Ridsdale, Miss. Lucy",527,F,Survived,W./C. 14258,Mid,10.5,1,0,0
+,,C95,Southampton,1,"Farthing, Mr. John",528,M,Died,PC 17483,Up,221.7792,1,0,0
+39,35,,Southampton,1,"Salonen, Mr. Johan Werner",529,M,Died,3101296,Low,7.925,1,0,0
+23,20,,Southampton,4,"Hocking, Mr. Richard George",530,M,Died,29104,Mid,11.5,1,1,2
+2,0,,Southampton,3,"Quick, Miss. Phyllis May",531,F,Survived,26360,Mid,26,1,1,1
+,,,Cherbourg,1,"Toufik, Mr. Nakli",532,M,Died,2641,Low,7.2292,1,0,0
+17,15,,Cherbourg,3,"Elias, Mr. Joseph Jr",533,M,Died,2690,Low,7.2292,1,1,1
+,,,Cherbourg,3,"Peter, Mrs. Catherine (Catherine Rizk)",534,F,Survived,2668,Low,22.3583,1,2,0
+30,30,,Southampton,1,"Cacic, Miss. Marija",535,F,Died,315084,Low,8.6625,1,0,0
+7,5,,Southampton,3,"Hart, Miss. Eva Miriam",536,F,Survived,F.C.C. 13529,Mid,26.25,1,2,0
+45,45,B38,Southampton,1,"Butt, Major. Archibald Willingham",537,M,Died,113050,Up,26.55,1,0,0
+30,30,,Cherbourg,1,"LeRoy, Miss. Bertha",538,F,Survived,PC 17761,Up,106.425,1,0,0
+,,,Southampton,1,"Risien, Mr. Samuel Beard",539,M,Died,364498,Low,14.5,1,0,0
+22,20,B39,Cherbourg,3,"Frolicher, Miss. Hedwig Margaritha",540,F,Survived,13568,Up,49.5,1,2,0
+36,35,B22,Southampton,3,"Crosby, Miss. Harriet R",541,F,Survived,WE/P 5735,Up,71,1,2,0
+9,5,,Southampton,7,"Andersson, Miss. Ingeborg Constanzia",542,F,Died,347082,Low,31.275,1,2,4
+11,10,,Southampton,7,"Andersson, Miss. Sigrid Elisabeth",543,F,Died,347082,Low,31.275,1,2,4
+32,30,,Southampton,2,"Beane, Mr. Edward",544,M,Survived,2908,Mid,26,1,0,1
+50,50,C86,Cherbourg,2,"Douglas, Mr. Walter Donald",545,M,Died,PC 17761,Up,106.425,1,0,1
+64,60,,Southampton,1,"Nicholson, Mr. Arthur Ernest",546,M,Died,693,Up,26,1,0,0
+19,15,,Southampton,2,"Beane, Mrs. Edward (Ethel Clarke)",547,F,Survived,2908,Mid,26,1,0,1
+,,,Cherbourg,1,"Padro y Manent, Mr. Julian",548,M,Survived,SC/PARIS 2146,Mid,13.8625,1,0,0
+33,30,,Southampton,3,"Goldsmith, Mr. Frank John",549,M,Died,363291,Low,20.525,1,1,1
+8,5,,Southampton,3,"Davies, Master. John Morgan Jr",550,M,Survived,C.A. 33112,Mid,36.75,1,1,1
+17,15,C70,Cherbourg,3,"Thayer, Mr. John Borland Jr",551,M,Survived,17421,Up,110.8833,1,2,0
+27,25,,Southampton,1,"Sharp, Mr. Percival James R",552,M,Died,244358,Mid,26,1,0,0
+,,,Queenstown,1,"O'Brien, Mr. Timothy",553,M,Died,330979,Low,7.8292,1,0,0
+22,20,,Cherbourg,1,"Leeni, Mr. Fahim (""Philip Zenni"")",554,M,Survived,2620,Low,7.225,1,0,0
+22,20,,Southampton,1,"Ohman, Miss. Velin",555,F,Survived,347085,Low,7.775,1,0,0
+62,60,,Southampton,1,"Wright, Mr. George",556,M,Died,113807,Up,26.55,1,0,0
+48,45,A16,Cherbourg,2,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",557,F,Survived,11755,Up,39.6,1,0,1
+,,,Cherbourg,1,"Robbins, Mr. Victor",558,M,Died,PC 17757,Up,227.525,1,0,0
+39,35,E67,Southampton,3,"Taussig, Mrs. Emil (Tillie Mandelbaum)",559,F,Survived,110413,Up,79.65,1,1,1
+36,35,,Southampton,2,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",560,F,Survived,345572,Low,17.4,1,0,1
+,,,Queenstown,1,"Morrow, Mr. Thomas Rowan",561,M,Died,372622,Low,7.75,1,0,0
+40,40,,Southampton,1,"Sivic, Mr. Husein",562,M,Died,349251,Low,7.8958,1,0,0
+28,25,,Southampton,1,"Norman, Mr. Robert Douglas",563,M,Died,218629,Mid,13.5,1,0,0
+,,,Southampton,1,"Simmons, Mr. John",564,M,Died,SOTON/OQ 392082,Low,8.05,1,0,0
+,,,Southampton,1,"Meanwell, Miss. (Marion Ogden)",565,F,Died,SOTON/O.Q. 392087,Low,8.05,1,0,0
+24,20,,Southampton,3,"Davies, Mr. Alfred J",566,M,Died,A/4 48871,Low,24.15,1,0,2
+19,15,,Southampton,1,"Stoytcheff, Mr. Ilia",567,M,Died,349205,Low,7.8958,1,0,0
+29,25,,Southampton,5,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",568,F,Died,349909,Low,21.075,1,4,0
+,,,Cherbourg,1,"Doharr, Mr. Tannous",569,M,Died,2686,Low,7.2292,1,0,0
+32,30,,Southampton,1,"Jonsson, Mr. Carl",570,M,Survived,350417,Low,7.8542,1,0,0
+62,60,,Southampton,1,"Harris, Mr. George",571,M,Survived,S.W./PP 752,Mid,10.5,1,0,0
+53,50,C101,Southampton,3,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",572,F,Survived,11769,Up,51.4792,1,0,2
+36,35,E25,Southampton,1,"Flynn, Mr. John Irwin (""Irving"")",573,M,Survived,PC 17474,Up,26.3875,1,0,0
+,,,Queenstown,1,"Kelly, Miss. Mary",574,F,Survived,14312,Low,7.75,1,0,0
+16,15,,Southampton,1,"Rush, Mr. Alfred George John",575,M,Died,A/4. 20589,Low,8.05,1,0,0
+19,15,,Southampton,1,"Patchett, Mr. George",576,M,Died,358585,Low,14.5,1,0,0
+34,30,,Southampton,1,"Garside, Miss. Ethel",577,F,Survived,243880,Mid,13,1,0,0
+39,35,E44,Southampton,2,"Silvey, Mrs. William Baird (Alice Munger)",578,F,Survived,13507,Up,55.9,1,0,1
+,,,Cherbourg,2,"Caram, Mrs. Joseph (Maria Elias)",579,F,Died,2689,Low,14.4583,1,0,1
+32,30,,Southampton,1,"Jussila, Mr. Eiriik",580,M,Survived,STON/O 2. 3101286,Low,7.925,1,0,0
+25,25,,Southampton,3,"Christy, Miss. Julie Rachel",581,F,Survived,237789,Mid,30,1,1,1
+39,35,C68,Cherbourg,3,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",582,F,Survived,17421,Up,110.8833,1,1,1
+54,50,,Southampton,1,"Downton, Mr. William James",583,M,Died,28403,Mid,26,1,0,0
+36,35,A10,Cherbourg,1,"Ross, Mr. John Hugo",584,M,Died,13049,Up,40.125,1,0,0
+,,,Cherbourg,1,"Paulner, Mr. Uscher",585,M,Died,3411,Low,8.7125,1,0,0
+18,15,E68,Southampton,3,"Taussig, Miss. Ruth",586,F,Survived,110413,Up,79.65,1,2,0
+47,45,,Southampton,1,"Jarvis, Mr. John Denzil",587,M,Died,237565,Mid,15,1,0,0
+60,60,B41,Cherbourg,3,"Frolicher-Stehli, Mr. Maxmillian",588,M,Survived,13567,Up,79.2,1,1,1
+22,20,,Southampton,1,"Gilinski, Mr. Eliezer",589,M,Died,14973,Low,8.05,1,0,0
+,,,Southampton,1,"Murdlin, Mr. Joseph",590,M,Died,A./5. 3235,Low,8.05,1,0,0
+35,35,,Southampton,1,"Rintamaki, Mr. Matti",591,M,Died,STON/O 2. 3101273,Low,7.125,1,0,0
+52,50,D20,Cherbourg,2,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",592,F,Survived,36947,Up,78.2667,1,0,1
+47,45,,Southampton,1,"Elsbury, Mr. William James",593,M,Died,A/5 3902,Low,7.25,1,0,0
+,,,Queenstown,3,"Bourke, Miss. Mary",594,F,Died,364848,Low,7.75,1,2,0
+37,35,,Southampton,2,"Chapman, Mr. John Henry",595,M,Died,SC/AH 29037,Mid,26,1,0,1
+36,35,,Southampton,3,"Van Impe, Mr. Jean Baptiste",596,M,Died,345773,Low,24.15,1,1,1
+,,,Southampton,1,"Leitch, Miss. Jessie Wills",597,F,Survived,248727,Mid,33,1,0,0
+49,45,,Southampton,1,"Johnson, Mr. Alfred",598,M,Died,LINE,Low,0,1,0,0
+,,,Cherbourg,1,"Boulos, Mr. Hanna",599,M,Died,2664,Low,7.225,1,0,0
+49,45,A20,Cherbourg,2,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",600,M,Survived,PC 17485,Up,56.9292,1,0,1
+24,20,,Southampton,4,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",601,F,Survived,243847,Mid,27,1,1,2
+,,,Southampton,1,"Slabenoff, Mr. Petco",602,M,Died,349214,Low,7.8958,1,0,0
+,,,Southampton,1,"Harrington, Mr. Charles H",603,M,Died,113796,Up,42.4,1,0,0
+44,40,,Southampton,1,"Torber, Mr. Ernst William",604,M,Died,364511,Low,8.05,1,0,0
+35,35,,Cherbourg,1,"Homer, Mr. Harry (""Mr E Haven"")",605,M,Survived,111426,Up,26.55,1,0,0
+36,35,,Southampton,2,"Lindell, Mr. Edvard Bengtsson",606,M,Died,349910,Low,15.55,1,0,1
+30,30,,Southampton,1,"Karaic, Mr. Milan",607,M,Died,349246,Low,7.8958,1,0,0
+27,25,,Southampton,1,"Daniel, Mr. Robert Williams",608,M,Survived,113804,Up,30.5,1,0,0
+22,20,,Cherbourg,4,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",609,F,Survived,SC/Paris 2123,Mid,41.5792,1,2,1
+40,40,C125,Southampton,1,"Shutes, Miss. Elizabeth W",610,F,Survived,PC 17582,Up,153.4625,1,0,0
+39,35,,Southampton,7,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",611,F,Died,347082,Low,31.275,1,5,1
+,,,Southampton,1,"Jardin, Mr. Jose Neto",612,M,Died,SOTON/O.Q. 3101305,Low,7.05,1,0,0
+,,,Queenstown,2,"Murphy, Miss. Margaret Jane",613,F,Survived,367230,Low,15.5,1,0,1
+,,,Queenstown,1,"Horgan, Mr. John",614,M,Died,370377,Low,7.75,1,0,0
+35,35,,Southampton,1,"Brocklebank, Mr. William Alfred",615,M,Died,364512,Low,8.05,1,0,0
+24,20,,Southampton,4,"Herman, Miss. Alice",616,F,Survived,220845,Mid,65,1,2,1
+34,30,,Southampton,3,"Danbom, Mr. Ernst Gilbert",617,M,Died,347080,Low,14.4,1,1,1
+26,25,,Southampton,2,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",618,F,Died,A/5. 3336,Low,16.1,1,0,1
+4,0,F4,Southampton,4,"Becker, Miss. Marion Louise",619,F,Survived,230136,Mid,39,1,1,2
+26,25,,Southampton,1,"Gavey, Mr. Lawrence",620,M,Died,31028,Mid,10.5,1,0,0
+27,25,,Cherbourg,2,"Yasbeck, Mr. Antoni",621,M,Died,2659,Low,14.4542,1,0,1
+42,40,D19,Southampton,2,"Kimball, Mr. Edwin Nelson Jr",622,M,Survived,11753,Up,52.5542,1,0,1
+20,20,,Cherbourg,3,"Nakid, Mr. Sahid",623,M,Survived,2653,Low,15.7417,1,1,1
+21,20,,Southampton,1,"Hansen, Mr. Henry Damsgaard",624,M,Died,350029,Low,7.8542,1,0,0
+21,20,,Southampton,1,"Bowen, Mr. David John ""Dai""",625,M,Died,54636,Low,16.1,1,0,0
+61,60,D50,Southampton,1,"Sutton, Mr. Frederick",626,M,Died,36963,Up,32.3208,1,0,0
+57,55,,Queenstown,1,"Kirkland, Rev. Charles Leonard",627,M,Died,219533,Mid,12.35,1,0,0
+21,20,D9,Southampton,1,"Longley, Miss. Gretchen Fiske",628,F,Survived,13502,Up,77.9583,1,0,0
+26,25,,Southampton,1,"Bostandyeff, Mr. Guentcho",629,M,Died,349224,Low,7.8958,1,0,0
+,,,Queenstown,1,"O'Connell, Mr. Patrick D",630,M,Died,334912,Low,7.7333,1,0,0
+80,80,A23,Southampton,1,"Barkworth, Mr. Algernon Henry Wilson",631,M,Survived,27042,Up,30,1,0,0
+51,50,,Southampton,1,"Lundahl, Mr. Johan Svensson",632,M,Died,347743,Low,7.0542,1,0,0
+32,30,B50,Cherbourg,1,"Stahelin-Maeglin, Dr. Max",633,M,Survived,13214,Up,30.5,1,0,0
+,,,Southampton,1,"Parr, Mr. William Henry Marsh",634,M,Died,112052,Up,0,1,0,0
+9,5,,Southampton,6,"Skoog, Miss. Mabel",635,F,Died,347088,Low,27.9,1,2,3
+28,25,,Southampton,1,"Davis, Miss. Mary",636,F,Survived,237668,Mid,13,1,0,0
+32,30,,Southampton,1,"Leinonen, Mr. Antti Gustaf",637,M,Died,STON/O 2. 3101292,Low,7.925,1,0,0
+31,30,,Southampton,3,"Collyer, Mr. Harvey",638,M,Died,C.A. 31921,Mid,26.25,1,1,1
+41,40,,Southampton,6,"Panula, Mrs. Juha (Maria Emilia Ojala)",639,F,Died,3101295,Low,39.6875,1,5,0
+,,,Southampton,2,"Thorneycroft, Mr. Percival",640,M,Died,376564,Low,16.1,1,0,1
+20,20,,Southampton,1,"Jensen, Mr. Hans Peder",641,M,Died,350050,Low,7.8542,1,0,0
+24,20,B35,Cherbourg,1,"Sagesser, Mlle. Emma",642,F,Survived,PC 17477,Up,69.3,1,0,0
+2,0,,Southampton,6,"Skoog, Miss. Margit Elizabeth",643,F,Died,347088,Low,27.9,1,2,3
+,,,Southampton,1,"Foo, Mr. Choong",644,M,Survived,1601,Low,56.4958,1,0,0
+0.75,0,,Cherbourg,4,"Baclini, Miss. Eugenie",645,F,Survived,2666,Low,19.2583,1,1,2
+48,45,D33,Cherbourg,2,"Harper, Mr. Henry Sleeper",646,M,Survived,PC 17572,Up,76.7292,1,0,1
+19,15,,Southampton,1,"Cor, Mr. Liudevit",647,M,Died,349231,Low,7.8958,1,0,0
+56,55,A26,Cherbourg,1,"Simonius-Blumer, Col. Oberst Alfons",648,M,Survived,13213,Up,35.5,1,0,0
+,,,Southampton,1,"Willey, Mr. Edward",649,M,Died,S.O./P.P. 751,Low,7.55,1,0,0
+23,20,,Southampton,1,"Stanley, Miss. Amy Zillah Elsie",650,F,Survived,CA. 2314,Low,7.55,1,0,0
+,,,Southampton,1,"Mitkoff, Mr. Mito",651,M,Died,349221,Low,7.8958,1,0,0
+18,15,,Southampton,2,"Doling, Miss. Elsie",652,F,Survived,231919,Mid,23,1,1,0
+21,20,,Southampton,1,"Kalvik, Mr. Johannes Halvorsen",653,M,Died,8475,Low,8.4333,1,0,0
+,,,Queenstown,1,"O'Leary, Miss. Hanora ""Norah""",654,F,Survived,330919,Low,7.8292,1,0,0
+18,15,,Queenstown,1,"Hegarty, Miss. Hanora ""Nora""",655,F,Died,365226,Low,6.75,1,0,0
+24,20,,Southampton,3,"Hickman, Mr. Leonard Mark",656,M,Died,S.O.C. 14879,Mid,73.5,1,0,2
+,,,Southampton,1,"Radeff, Mr. Alexander",657,M,Died,349223,Low,7.8958,1,0,0
+32,30,,Queenstown,3,"Bourke, Mrs. John (Catherine)",658,F,Died,364849,Low,15.5,1,1,1
+23,20,,Southampton,1,"Eitemiller, Mr. George Floyd",659,M,Died,29751,Mid,13,1,0,0
+58,55,D48,Cherbourg,3,"Newell, Mr. Arthur Webster",660,M,Died,35273,Up,113.275,1,2,0
+50,50,,Southampton,3,"Frauenthal, Dr. Henry William",661,M,Survived,PC 17611,Up,133.65,1,0,2
+40,40,,Cherbourg,1,"Badt, Mr. Mohamed",662,M,Died,2623,Low,7.225,1,0,0
+47,45,E58,Southampton,1,"Colley, Mr. Edward Pomeroy",663,M,Died,5727,Up,25.5875,1,0,0
+36,35,,Southampton,1,"Coleff, Mr. Peju",664,M,Died,349210,Low,7.4958,1,0,0
+20,20,,Southampton,2,"Lindqvist, Mr. Eino William",665,M,Survived,STON/O 2. 3101285,Low,7.925,1,0,1
+32,30,,Southampton,3,"Hickman, Mr. Lewis",666,M,Died,S.O.C. 14879,Mid,73.5,1,0,2
+25,25,,Southampton,1,"Butler, Mr. Reginald Fenton",667,M,Died,234686,Mid,13,1,0,0
+,,,Southampton,1,"Rommetvedt, Mr. Knud Paust",668,M,Died,312993,Low,7.775,1,0,0
+43,40,,Southampton,1,"Cook, Mr. Jacob",669,M,Died,A/5 3536,Low,8.05,1,0,0
+,,C126,Southampton,2,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",670,F,Survived,19996,Up,52,1,0,1
+40,40,,Southampton,3,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",671,F,Survived,29750,Mid,39,1,1,1
+31,30,B71,Southampton,2,"Davidson, Mr. Thornton",672,M,Died,F.C. 12750,Up,52,1,0,1
+70,70,,Southampton,1,"Mitchell, Mr. Henry Michael",673,M,Died,C.A. 24580,Mid,10.5,1,0,0
+31,30,,Southampton,1,"Wilhelms, Mr. Charles",674,M,Survived,244270,Mid,13,1,0,0
+,,,Southampton,1,"Watson, Mr. Ennis Hastings",675,M,Died,239856,Mid,0,1,0,0
+18,15,,Southampton,1,"Edvardsson, Mr. Gustaf Hjalmar",676,M,Died,349912,Low,7.775,1,0,0
+24.5,20,,Southampton,1,"Sawyer, Mr. Frederick Charles",677,M,Died,342826,Low,8.05,1,0,0
+18,15,,Southampton,1,"Turja, Miss. Anna Sofia",678,F,Survived,4138,Low,9.8417,1,0,0
+43,40,,Southampton,8,"Goodwin, Mrs. Frederick (Augusta Tyler)",679,F,Died,CA 2144,Low,46.9,1,6,1
+36,35,B51 B53 B55,Cherbourg,2,"Cardeza, Mr. Thomas Drake Martinez",680,M,Survived,PC 17755,Up,512.3292,1,1,0
+,,,Queenstown,1,"Peters, Miss. Katie",681,F,Died,330935,Low,8.1375,1,0,0
+27,25,D49,Cherbourg,1,"Hassab, Mr. Hammad",682,M,Survived,PC 17572,Up,76.7292,1,0,0
+20,20,,Southampton,1,"Olsvigen, Mr. Thor Anderson",683,M,Died,6563,Low,9.225,1,0,0
+14,10,,Southampton,8,"Goodwin, Mr. Charles Edward",684,M,Died,CA 2144,Low,46.9,1,2,5
+60,60,,Southampton,3,"Brown, Mr. Thomas William Solomon",685,M,Died,29750,Mid,39,1,1,1
+25,25,,Cherbourg,4,"Laroche, Mr. Joseph Philippe Lemercier",686,M,Died,SC/Paris 2123,Mid,41.5792,1,2,1
+14,10,,Southampton,6,"Panula, Mr. Jaako Arnold",687,M,Died,3101295,Low,39.6875,1,1,4
+19,15,,Southampton,1,"Dakic, Mr. Branko",688,M,Died,349228,Low,10.1708,1,0,0
+18,15,,Southampton,1,"Fischer, Mr. Eberhard Thelander",689,M,Died,350036,Low,7.7958,1,0,0
+15,15,B5,Southampton,2,"Madill, Miss. Georgette Alexandra",690,F,Survived,24160,Up,211.3375,1,1,0
+31,30,B20,Southampton,2,"Dick, Mr. Albert Adrian",691,M,Survived,17474,Up,57,1,0,1
+4,0,,Cherbourg,2,"Karun, Miss. Manca",692,F,Survived,349256,Low,13.4167,1,1,0
+,,,Southampton,1,"Lam, Mr. Ali",693,M,Survived,1601,Low,56.4958,1,0,0
+25,25,,Cherbourg,1,"Saad, Mr. Khalil",694,M,Died,2672,Low,7.225,1,0,0
+60,60,,Southampton,1,"Weir, Col. John",695,M,Died,113800,Up,26.55,1,0,0
+52,50,,Southampton,1,"Chapman, Mr. Charles Henry",696,M,Died,248731,Mid,13.5,1,0,0
+44,40,,Southampton,1,"Kelly, Mr. James",697,M,Died,363592,Low,8.05,1,0,0
+,,,Queenstown,1,"Mullens, Miss. Katherine ""Katie""",698,F,Survived,35852,Low,7.7333,1,0,0
+49,45,C68,Cherbourg,3,"Thayer, Mr. John Borland",699,M,Died,17421,Up,110.8833,1,1,1
+42,40,F G63,Southampton,1,"Humblen, Mr. Adolf Mathias Nicolai Olsen",700,M,Died,348121,Low,7.65,1,0,0
+18,15,C62 C64,Cherbourg,2,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",701,F,Survived,PC 17757,Up,227.525,1,0,1
+35,35,E24,Southampton,1,"Silverthorne, Mr. Spencer Victor",702,M,Survived,PC 17475,Up,26.2875,1,0,0
+18,15,,Cherbourg,2,"Barbara, Miss. Saiide",703,F,Died,2691,Low,14.4542,1,1,0
+25,25,,Queenstown,1,"Gallagher, Mr. Martin",704,M,Died,36864,Low,7.7417,1,0,0
+26,25,,Southampton,2,"Hansen, Mr. Henrik Juul",705,M,Died,350025,Low,7.8542,1,0,1
+39,35,,Southampton,1,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",706,M,Died,250655,Mid,26,1,0,0
+45,45,,Southampton,1,"Kelly, Mrs. Florence ""Fannie""",707,F,Survived,223596,Mid,13.5,1,0,0
+42,40,E24,Southampton,1,"Calderhead, Mr. Edward Pennington",708,M,Survived,PC 17476,Up,26.2875,1,0,0
+22,20,,Southampton,1,"Cleaver, Miss. Alice",709,F,Survived,113781,Up,151.55,1,0,0
+,,,Cherbourg,3,"Moubarek, Master. Halim Gonios (""William George"")",710,M,Survived,2661,Low,15.2458,1,1,1
+24,20,C90,Cherbourg,1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",711,F,Survived,PC 17482,Up,49.5042,1,0,0
+,,C124,Southampton,1,"Klaber, Mr. Herman",712,M,Died,113028,Up,26.55,1,0,0
+48,45,C126,Southampton,2,"Taylor, Mr. Elmer Zebley",713,M,Survived,19996,Up,52,1,0,1
+29,25,,Southampton,1,"Larsson, Mr. August Viktor",714,M,Died,7545,Low,9.4833,1,0,0
+52,50,,Southampton,1,"Greenberg, Mr. Samuel",715,M,Died,250647,Mid,13,1,0,0
+19,15,F G73,Southampton,1,"Soholt, Mr. Peter Andreas Lauritz Andersen",716,M,Died,348124,Low,7.65,1,0,0
+38,35,C45,Cherbourg,1,"Endres, Miss. Caroline Louise",717,F,Survived,PC 17757,Up,227.525,1,0,0
+27,25,E101,Southampton,1,"Troutt, Miss. Edwina Celia ""Winnie""",718,F,Survived,34218,Mid,10.5,1,0,0
+,,,Queenstown,1,"McEvoy, Mr. Michael",719,M,Died,36568,Low,15.5,1,0,0
+33,30,,Southampton,1,"Johnson, Mr. Malkolm Joackim",720,M,Died,347062,Low,7.775,1,0,0
+6,5,,Southampton,2,"Harper, Miss. Annie Jessie ""Nina""",721,F,Survived,248727,Mid,33,1,1,0
+17,15,,Southampton,2,"Jensen, Mr. Svend Lauritz",722,M,Died,350048,Low,7.0542,1,0,1
+34,30,,Southampton,1,"Gillespie, Mr. William Henry",723,M,Died,12233,Mid,13,1,0,0
+50,50,,Southampton,1,"Hodges, Mr. Henry Price",724,M,Died,250643,Mid,13,1,0,0
+27,25,E8,Southampton,2,"Chambers, Mr. Norman Campbell",725,M,Survived,113806,Up,53.1,1,0,1
+20,20,,Southampton,1,"Oreskovic, Mr. Luka",726,M,Died,315094,Low,8.6625,1,0,0
+30,30,,Southampton,4,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",727,F,Survived,31027,Mid,21,1,0,3
+,,,Queenstown,1,"Mannion, Miss. Margareth",728,F,Survived,36866,Low,7.7375,1,0,0
+25,25,,Southampton,2,"Bryhl, Mr. Kurt Arnold Gottfrid",729,M,Died,236853,Mid,26,1,0,1
+25,25,,Southampton,2,"Ilmakangas, Miss. Pieta Sofia",730,F,Died,STON/O2. 3101271,Low,7.925,1,0,1
+29,25,B5,Southampton,1,"Allen, Miss. Elisabeth Walton",731,F,Survived,24160,Up,211.3375,1,0,0
+11,10,,Cherbourg,1,"Hassan, Mr. Houssein G N",732,M,Died,2699,Low,18.7875,1,0,0
+,,,Southampton,1,"Knight, Mr. Robert J",733,M,Died,239855,Mid,0,1,0,0
+23,20,,Southampton,1,"Berriman, Mr. William John",734,M,Died,28425,Mid,13,1,0,0
+23,20,,Southampton,1,"Troupiansky, Mr. Moses Aaron",735,M,Died,233639,Mid,13,1,0,0
+28.5,25,,Southampton,1,"Williams, Mr. Leslie",736,M,Died,54636,Low,16.1,1,0,0
+48,45,,Southampton,5,"Ford, Mrs. Edward (Margaret Ann Watson)",737,F,Died,W./C. 6608,Low,34.375,1,3,1
+35,35,B101,Cherbourg,1,"Lesurer, Mr. Gustave J",738,M,Survived,PC 17755,Up,512.3292,1,0,0
+,,,Southampton,1,"Ivanoff, Mr. Kanio",739,M,Died,349201,Low,7.8958,1,0,0
+,,,Southampton,1,"Nankoff, Mr. Minko",740,M,Died,349218,Low,7.8958,1,0,0
+,,D45,Southampton,1,"Hawksford, Mr. Walter James",741,M,Survived,16988,Up,30,1,0,0
+36,35,C46,Southampton,2,"Cavendish, Mr. Tyrell William",742,M,Died,19877,Up,78.85,1,0,1
+21,20,B57 B59 B63 B66,Cherbourg,5,"Ryerson, Miss. Susan Parker ""Suzette""",743,F,Survived,PC 17608,Up,262.375,1,2,2
+24,20,,Southampton,2,"McNamee, Mr. Neal",744,M,Died,376566,Low,16.1,1,0,1
+31,30,,Southampton,1,"Stranden, Mr. Juho",745,M,Survived,STON/O 2. 3101288,Low,7.925,1,0,0
+70,70,B22,Southampton,3,"Crosby, Capt. Edward Gifford",746,M,Died,WE/P 5735,Up,71,1,1,1
+16,15,,Southampton,3,"Abbott, Mr. Rossmore Edward",747,M,Died,C.A. 2673,Low,20.25,1,1,1
+30,30,,Southampton,1,"Sinkkonen, Miss. Anna",748,F,Survived,250648,Mid,13,1,0,0
+19,15,D30,Southampton,2,"Marvin, Mr. Daniel Warner",749,M,Died,113773,Up,53.1,1,0,1
+31,30,,Queenstown,1,"Connaghton, Mr. Michael",750,M,Died,335097,Low,7.75,1,0,0
+4,0,,Southampton,3,"Wells, Miss. Joan",751,F,Survived,29103,Mid,23,1,1,1
+6,5,E121,Southampton,2,"Moor, Master. Meier",752,M,Survived,392096,Low,12.475,1,1,0
+33,30,,Southampton,1,"Vande Velde, Mr. Johannes Joseph",753,M,Died,345780,Low,9.5,1,0,0
+23,20,,Southampton,1,"Jonkoff, Mr. Lalio",754,M,Died,349204,Low,7.8958,1,0,0
+48,45,,Southampton,4,"Herman, Mrs. Samuel (Jane Laver)",755,F,Survived,220845,Mid,65,1,2,1
+0.67,0,,Southampton,3,"Hamalainen, Master. Viljo",756,M,Survived,250649,Mid,14.5,1,1,1
+28,25,,Southampton,1,"Carlsson, Mr. August Sigfrid",757,M,Died,350042,Low,7.7958,1,0,0
+18,15,,Southampton,1,"Bailey, Mr. Percy Andrew",758,M,Died,29108,Mid,11.5,1,0,0
+34,30,,Southampton,1,"Theobald, Mr. Thomas Leonard",759,M,Died,363294,Low,8.05,1,0,0
+33,30,B77,Southampton,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",760,F,Survived,110152,Up,86.5,1,0,0
+,,,Southampton,1,"Garfirth, Mr. John",761,M,Died,358585,Low,14.5,1,0,0
+41,40,,Southampton,1,"Nirva, Mr. Iisakki Antino Aijo",762,M,Died,SOTON/O2 3101272,Low,7.125,1,0,0
+20,20,,Cherbourg,1,"Barah, Mr. Hanna Assi",763,M,Survived,2663,Low,7.2292,1,0,0
+36,35,B96 B98,Southampton,4,"Carter, Mrs. William Ernest (Lucile Polk)",764,F,Survived,113760,Up,120,1,2,1
+16,15,,Southampton,1,"Eklund, Mr. Hans Linus",765,M,Died,347074,Low,7.775,1,0,0
+51,50,D11,Southampton,2,"Hogeboom, Mrs. John C (Anna Andrews)",766,F,Survived,13502,Up,77.9583,1,0,1
+,,,Cherbourg,1,"Brewe, Dr. Arthur Jackson",767,M,Died,112379,Up,39.6,1,0,0
+30.5,30,,Queenstown,1,"Mangan, Miss. Mary",768,F,Died,364850,Low,7.75,1,0,0
+,,,Queenstown,2,"Moran, Mr. Daniel J",769,M,Died,371110,Low,24.15,1,0,1
+32,30,,Southampton,1,"Gronnestad, Mr. Daniel Danielsen",770,M,Died,8471,Low,8.3625,1,0,0
+24,20,,Southampton,1,"Lievens, Mr. Rene Aime",771,M,Died,345781,Low,9.5,1,0,0
+48,45,,Southampton,1,"Jensen, Mr. Niels Peder",772,M,Died,350047,Low,7.8542,1,0,0
+57,55,E77,Southampton,1,"Mack, Mrs. (Mary)",773,F,Died,S.O./P.P. 3,Mid,10.5,1,0,0
+,,,Cherbourg,1,"Elias, Mr. Dibo",774,M,Died,2674,Low,7.225,1,0,0
+54,50,,Southampton,5,"Hocking, Mrs. Elizabeth (Eliza Needs)",775,F,Survived,29105,Mid,23,1,3,1
+18,15,,Southampton,1,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",776,M,Died,347078,Low,7.75,1,0,0
+,,F38,Queenstown,1,"Tobin, Mr. Roger",777,M,Died,383121,Low,7.75,1,0,0
+5,5,,Southampton,1,"Emanuel, Miss. Virginia Ethel",778,F,Survived,364516,Low,12.475,1,0,0
+,,,Queenstown,1,"Kilgannon, Mr. Thomas J",779,M,Died,36865,Low,7.7375,1,0,0
+43,40,B3,Southampton,2,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",780,F,Survived,24160,Up,211.3375,1,1,0
+13,10,,Cherbourg,1,"Ayoub, Miss. Banoura",781,F,Survived,2687,Low,7.2292,1,0,0
+17,15,B20,Southampton,2,"Dick, Mrs. Albert Adrian (Vera Gillespie)",782,F,Survived,17474,Up,57,1,0,1
+29,25,D6,Southampton,1,"Long, Mr. Milton Clyde",783,M,Died,113501,Up,30,1,0,0
+,,,Southampton,4,"Johnston, Mr. Andrew G",784,M,Died,W./C. 6607,Low,23.45,1,2,1
+25,25,,Southampton,1,"Ali, Mr. William",785,M,Died,SOTON/O.Q. 3101312,Low,7.05,1,0,0
+25,25,,Southampton,1,"Harmer, Mr. Abraham (David Lishin)",786,M,Died,374887,Low,7.25,1,0,0
+18,15,,Southampton,1,"Sjoblom, Miss. Anna Sofia",787,F,Survived,3101265,Low,7.4958,1,0,0
+8,5,,Queenstown,6,"Rice, Master. George Hugh",788,M,Died,382652,Low,29.125,1,1,4
+1,0,,Southampton,4,"Dean, Master. Bertram Vere",789,M,Survived,C.A. 2315,Low,20.575,1,2,1
+46,45,B82 B84,Cherbourg,1,"Guggenheim, Mr. Benjamin",790,M,Died,PC 17593,Up,79.2,1,0,0
+,,,Queenstown,1,"Keane, Mr. Andrew ""Andy""",791,M,Died,12460,Low,7.75,1,0,0
+16,15,,Southampton,1,"Gaskell, Mr. Alfred",792,M,Died,239865,Mid,26,1,0,0
+,,,Southampton,11,"Sage, Miss. Stella Anna",793,F,Died,CA. 2343,Low,69.55,1,2,8
+,,,Cherbourg,1,"Hoyt, Mr. William Fisher",794,M,Died,PC 17600,Up,30.6958,1,0,0
+25,25,,Southampton,1,"Dantcheff, Mr. Ristiu",795,M,Died,349203,Low,7.8958,1,0,0
+39,35,,Southampton,1,"Otter, Mr. Richard",796,M,Died,28213,Mid,13,1,0,0
+49,45,D17,Southampton,1,"Leader, Dr. Alice (Farnham)",797,F,Survived,17465,Up,25.9292,1,0,0
+31,30,,Southampton,1,"Osman, Mrs. Mara",798,F,Survived,349244,Low,8.6833,1,0,0
+30,30,,Cherbourg,1,"Ibrahim Shawah, Mr. Yousseff",799,M,Died,2685,Low,7.2292,1,0,0
+30,30,,Southampton,3,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",800,F,Died,345773,Low,24.15,1,1,1
+34,30,,Southampton,1,"Ponesell, Mr. Martin",801,M,Died,250647,Mid,13,1,0,0
+31,30,,Southampton,3,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",802,F,Survived,C.A. 31921,Mid,26.25,1,1,1
+11,10,B96 B98,Southampton,4,"Carter, Master. William Thornton II",803,M,Survived,113760,Up,120,1,2,1
+0.42,0,,Cherbourg,2,"Thomas, Master. Assad Alexander",804,M,Survived,2625,Low,8.5167,1,1,0
+27,25,,Southampton,1,"Hedman, Mr. Oskar Arvid",805,M,Survived,347089,Low,6.975,1,0,0
+31,30,,Southampton,1,"Johansson, Mr. Karl Johan",806,M,Died,347063,Low,7.775,1,0,0
+39,35,A36,Southampton,1,"Andrews, Mr. Thomas Jr",807,M,Died,112050,Up,0,1,0,0
+18,15,,Southampton,1,"Pettersson, Miss. Ellen Natalia",808,F,Died,347087,Low,7.775,1,0,0
+39,35,,Southampton,1,"Meyer, Mr. August",809,M,Died,248723,Mid,13,1,0,0
+33,30,E8,Southampton,2,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",810,F,Survived,113806,Up,53.1,1,0,1
+26,25,,Southampton,1,"Alexander, Mr. William",811,M,Died,3474,Low,7.8875,1,0,0
+39,35,,Southampton,1,"Lester, Mr. James",812,M,Died,A/4 48871,Low,24.15,1,0,0
+35,35,,Southampton,1,"Slemen, Mr. Richard James",813,M,Died,28206,Mid,10.5,1,0,0
+6,5,,Southampton,7,"Andersson, Miss. Ebba Iris Alfrida",814,F,Died,347082,Low,31.275,1,2,4
+30.5,30,,Southampton,1,"Tomlin, Mr. Ernest Portage",815,M,Died,364499,Low,8.05,1,0,0
+,,B102,Southampton,1,"Fry, Mr. Richard",816,M,Died,112058,Up,0,1,0,0
+23,20,,Southampton,1,"Heininen, Miss. Wendla Maria",817,F,Died,STON/O2. 3101290,Low,7.925,1,0,0
+31,30,,Cherbourg,3,"Mallet, Mr. Albert",818,M,Died,S.C./PARIS 2079,Mid,37.0042,1,1,1
+43,40,,Southampton,1,"Holm, Mr. John Fredrik Alexander",819,M,Died,C 7075,Low,6.45,1,0,0
+10,10,,Southampton,6,"Skoog, Master. Karl Thorsten",820,M,Died,347088,Low,27.9,1,2,3
+52,50,B69,Southampton,3,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",821,F,Survived,12749,Up,93.5,1,1,1
+27,25,,Southampton,1,"Lulic, Mr. Nikola",822,M,Survived,315098,Low,8.6625,1,0,0
+38,35,,Southampton,1,"Reuchlin, Jonkheer. John George",823,M,Died,19972,Up,0,1,0,0
+27,25,E121,Southampton,2,"Moor, Mrs. (Beila)",824,F,Survived,392096,Low,12.475,1,1,0
+2,0,,Southampton,6,"Panula, Master. Urho Abraham",825,M,Died,3101295,Low,39.6875,1,1,4
+,,,Queenstown,1,"Flynn, Mr. John",826,M,Died,368323,Low,6.95,1,0,0
+,,,Southampton,1,"Lam, Mr. Len",827,M,Died,1601,Low,56.4958,1,0,0
+1,0,,Cherbourg,3,"Mallet, Master. Andre",828,M,Survived,S.C./PARIS 2079,Mid,37.0042,1,2,0
+,,,Queenstown,1,"McCormack, Mr. Thomas Joseph",829,M,Survived,367228,Low,7.75,1,0,0
+62,60,B28,,1,"Stone, Mrs. George Nelson (Martha Evelyn)",830,F,Survived,113572,Up,80,1,0,0
+15,15,,Cherbourg,2,"Yasbeck, Mrs. Antoni (Selini Alexander)",831,F,Survived,2659,Low,14.4542,1,0,1
+0.83,0,,Southampton,3,"Richards, Master. George Sibley",832,M,Survived,29106,Mid,18.75,1,1,1
+,,,Cherbourg,1,"Saad, Mr. Amin",833,M,Died,2671,Low,7.2292,1,0,0
+23,20,,Southampton,1,"Augustsson, Mr. Albert",834,M,Died,347468,Low,7.8542,1,0,0
+18,15,,Southampton,1,"Allum, Mr. Owen George",835,M,Died,2223,Low,8.3,1,0,0
+39,35,E49,Cherbourg,3,"Compton, Miss. Sara Rebecca",836,F,Survived,PC 17756,Up,83.1583,1,1,1
+21,20,,Southampton,1,"Pasic, Mr. Jakob",837,M,Died,315097,Low,8.6625,1,0,0
+,,,Southampton,1,"Sirota, Mr. Maurice",838,M,Died,392092,Low,8.05,1,0,0
+32,30,,Southampton,1,"Chip, Mr. Chang",839,M,Survived,1601,Low,56.4958,1,0,0
+,,C47,Cherbourg,1,"Marechal, Mr. Pierre",840,M,Survived,11774,Up,29.7,1,0,0
+20,20,,Southampton,1,"Alhomaki, Mr. Ilmari Rudolf",841,M,Died,SOTON/O2 3101287,Low,7.925,1,0,0
+16,15,,Southampton,1,"Mudd, Mr. Thomas Charles",842,M,Died,S.O./P.P. 3,Mid,10.5,1,0,0
+30,30,,Cherbourg,1,"Serepeca, Miss. Augusta",843,F,Survived,113798,Up,31,1,0,0
+34.5,30,,Cherbourg,1,"Lemberopolous, Mr. Peter L",844,M,Died,2683,Low,6.4375,1,0,0
+17,15,,Southampton,1,"Culumovic, Mr. Jeso",845,M,Died,315090,Low,8.6625,1,0,0
+42,40,,Southampton,1,"Abbing, Mr. Anthony",846,M,Died,C.A. 5547,Low,7.55,1,0,0
+,,,Southampton,11,"Sage, Mr. Douglas Bullen",847,M,Died,CA. 2343,Low,69.55,1,2,8
+35,35,,Cherbourg,1,"Markoff, Mr. Marin",848,M,Died,349213,Low,7.8958,1,0,0
+28,25,,Southampton,2,"Harper, Rev. John",849,M,Died,248727,Mid,33,1,1,0
+,,C92,Cherbourg,2,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",850,F,Survived,17453,Up,89.1042,1,0,1
+4,0,,Southampton,7,"Andersson, Master. Sigvard Harald Elias",851,M,Died,347082,Low,31.275,1,2,4
+74,70,,Southampton,1,"Svensson, Mr. Johan",852,M,Died,347060,Low,7.775,1,0,0
+9,5,,Cherbourg,3,"Boulos, Miss. Nourelain",853,F,Died,2678,Low,15.2458,1,1,1
+16,15,D28,Southampton,2,"Lines, Miss. Mary Conover",854,F,Survived,PC 17592,Up,39.4,1,1,0
+44,40,,Southampton,2,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",855,F,Died,244252,Mid,26,1,0,1
+18,15,,Southampton,2,"Aks, Mrs. Sam (Leah Rosen)",856,F,Survived,392091,Low,9.35,1,1,0
+45,45,,Southampton,3,"Wick, Mrs. George Dennick (Mary Hitchcock)",857,F,Survived,36928,Up,164.8667,1,1,1
+51,50,E17,Southampton,1,"Daly, Mr. Peter Denis ",858,M,Survived,113055,Up,26.55,1,0,0
+24,20,,Cherbourg,4,"Baclini, Mrs. Solomon (Latifa Qurban)",859,F,Survived,2666,Low,19.2583,1,3,0
+,,,Cherbourg,1,"Razi, Mr. Raihed",860,M,Died,2629,Low,7.2292,1,0,0
+41,40,,Southampton,3,"Hansen, Mr. Claus Peter",861,M,Died,350026,Low,14.1083,1,0,2
+21,20,,Southampton,2,"Giles, Mr. Frederick Edward",862,M,Died,28134,Mid,11.5,1,0,1
+48,45,D17,Southampton,1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",863,F,Survived,17466,Up,25.9292,1,0,0
+,,,Southampton,11,"Sage, Miss. Dorothy Edith ""Dolly""",864,F,Died,CA. 2343,Low,69.55,1,2,8
+24,20,,Southampton,1,"Gill, Mr. John William",865,M,Died,233866,Mid,13,1,0,0
+42,40,,Southampton,1,"Bystrom, Mrs. (Karolina)",866,F,Survived,236852,Mid,13,1,0,0
+27,25,,Cherbourg,2,"Duran y More, Miss. Asuncion",867,F,Survived,SC/PARIS 2149,Mid,13.8583,1,0,1
+31,30,A24,Southampton,1,"Roebling, Mr. Washington Augustus II",868,M,Died,PC 17590,Up,50.4958,1,0,0
+,,,Southampton,1,"van Melkebeke, Mr. Philemon",869,M,Died,345777,Low,9.5,1,0,0
+4,0,,Southampton,3,"Johnson, Master. Harold Theodor",870,M,Survived,347742,Low,11.1333,1,1,1
+26,25,,Southampton,1,"Balkic, Mr. Cerin",871,M,Died,349248,Low,7.8958,1,0,0
+47,45,D35,Southampton,3,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",872,F,Survived,11751,Up,52.5542,1,1,1
+33,30,B51 B53 B55,Southampton,1,"Carlsson, Mr. Frans Olof",873,M,Died,695,Up,5,1,0,0
+47,45,,Southampton,1,"Vander Cruyssen, Mr. Victor",874,M,Died,345765,Low,9,1,0,0
+28,25,,Cherbourg,2,"Abelson, Mrs. Samuel (Hannah Wizosky)",875,F,Survived,P/PP 3381,Mid,24,1,0,1
+15,15,,Cherbourg,1,"Najib, Miss. Adele Kiamie ""Jane""",876,F,Survived,2667,Low,7.225,1,0,0
+20,20,,Southampton,1,"Gustafsson, Mr. Alfred Ossian",877,M,Died,7534,Low,9.8458,1,0,0
+19,15,,Southampton,1,"Petroff, Mr. Nedelio",878,M,Died,349212,Low,7.8958,1,0,0
+,,,Southampton,1,"Laleff, Mr. Kristo",879,M,Died,349217,Low,7.8958,1,0,0
+56,55,C50,Cherbourg,2,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",880,F,Survived,11767,Up,83.1583,1,1,0
+25,25,,Southampton,2,"Shelley, Mrs. William (Imanita Parrish Hall)",881,F,Survived,230433,Mid,26,1,1,0
+33,30,,Southampton,1,"Markun, Mr. Johann",882,M,Died,349257,Low,7.8958,1,0,0
+22,20,,Southampton,1,"Dahlberg, Miss. Gerda Ulrika",883,F,Died,7552,Low,10.5167,1,0,0
+28,25,,Southampton,1,"Banfield, Mr. Frederick James",884,M,Died,C.A./SOTON 34068,Mid,10.5,1,0,0
+25,25,,Southampton,1,"Sutehall, Mr. Henry Jr",885,M,Died,SOTON/OQ 392076,Low,7.05,1,0,0
+39,35,,Queenstown,6,"Rice, Mrs. William (Margaret Norton)",886,F,Died,382652,Low,29.125,1,5,0
+27,25,,Southampton,1,"Montvila, Rev. Juozas",887,M,Died,211536,Mid,13,1,0,0
+19,15,B42,Southampton,1,"Graham, Miss. Margaret Edith",888,F,Survived,112053,Up,30,1,0,0
+,,,Southampton,4,"Johnston, Miss. Catherine Helen ""Carrie""",889,F,Died,W./C. 6607,Low,23.45,1,2,1
+26,25,C148,Cherbourg,1,"Behr, Mr. Karl Howell",890,M,Survived,111369,Up,30,1,0,0
+32,30,,Queenstown,1,"Dooley, Mr. Patrick",891,M,Died,370376,Low,7.75,1,0,0
