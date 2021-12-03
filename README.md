@@ -9,7 +9,7 @@ The following are the Screenshots of my final presentation.
 ![alt text](https://github.com/yash2705/tableau-titanc-analysis-and-visualisation/blob/main/Story/StoryPoint5.jpg)
 
 # Contributor
-Yash Shah (16010120103)
+Yash Shah (16010120103),
 Chaitanya Shaligram (16010120104)
 Batch - B3
 
